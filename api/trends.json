@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-05-29T00:02:34.338758+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-29T02:41:39.258918+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "据伊朗塔斯尼姆通讯社：西方消息人士称伊朗与美国之间的谅解备忘录已达成的报道不属实。伊朗尚未通知巴基斯坦调解方文本已最终确定，一旦最终确定，伊朗将向巴基斯坦调解方和公众宣布此事。",
+          "url": "https://flash.jin10.com/detail/20260529022207681800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "伊朗媒体：关于西方消息说伊朗与美国已经敲定谅解备忘录的报道不实。",
+          "url": "https://wallstreetcn.com/livenews/3110892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
         {
           "title": "以媒：以色列空袭贝鲁特，意在打击伊朗民兵组织指挥官",
           "url": "https://wallstreetcn.com/livenews/3110848",
@@ -14,9 +36,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社援引谈判团队内部消息人士称，潜在谅解备忘录的文本尚未最终确定或确认。",
+          "url": "https://flash.jin10.com/detail/20260529021933252800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "伊朗说“亚伯拉罕协议”加剧地区不安全",
@@ -25,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
         },
@@ -36,7 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
         },
@@ -48,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 02时41分]"
         },
         {
           "title": "伊朗说“亚伯拉罕协议”加剧地区不安全",
@@ -58,7 +91,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
         },
@@ -69,9 +102,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "以媒记者报道称美伊谅解备忘录未获伊朗最高领袖同意",
@@ -80,7 +124,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
         },
@@ -91,15 +135,48 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "伦敦铜价反弹，投资者关注美国与伊朗谈判进展和需求前景",
+          "url": "https://wallstreetcn.com/livenews/3110871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "伊朗最高领袖强调维护民族团结",
+          "url": "https://wallstreetcn.com/livenews/3110866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美国财长：美国将对伊朗航司实施多方面限制",
+          "url": "https://wallstreetcn.com/livenews/3110865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -109,8 +186,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 02时41分]"
+        },
+        {
+          "title": "美国财长贝森特：石油（价格）将低于美国、以色列发动伊朗战争之前的水平。 石油市场将得到很好的供应。 关于伊朗的条款磋商反反复复。 霍尔木兹海峡将免费开放，将近2000艘船只等待离开波斯湾。 总统特朗普不会接受一份糟糕的协议。",
+          "url": "https://wallstreetcn.com/livenews/3110890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "无人机制造商Unusual Machines Inc.（UMAC）维持超过68%的涨幅，持稳于盘中历史新高32美元附近，媒体报道称，美国总统特朗普的政府考虑注资该公司，从而提高美国的产量、降低成本。",
+          "url": "https://wallstreetcn.com/livenews/3110888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
@@ -120,8 +219,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 02时41分]"
+        },
+        {
+          "title": "特朗普调侃赫格塞思：他热衷战争",
+          "url": "https://v.ifeng.com/c/8tSottvMqyW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 02时41分]"
         },
         {
           "title": "美媒称美伊达成60天谅解备忘录、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
@@ -135,15 +245,15 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
-          "title": "特朗普调侃赫格塞思：他热衷战争",
-          "url": "https://v.ifeng.com/c/8tSottvMqyW",
-          "source": "凤凰网",
+          "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
+          "url": "https://wallstreetcn.com/articles/3773378",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "特朗普政府起诉四州，指控它们拒绝向ICE发放秘密车牌",
@@ -152,15 +262,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "据知情人士透露，美国与伊朗达成了关于60天停火的谅解备忘录（MoU），但仍需特朗普批准。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3110862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -170,19 +291,42 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 02时41分]"
+        },
+        {
+          "title": "CBOE全球市场公司计划于12月在其CBOE EDGX股票交易所推出23X5美国股票交易；预计在上线初期将有约20种股票可供交易，其中包括“美股七巨头”。",
+          "url": "https://flash.jin10.com/detail/20260529021834083800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
           "url": "https://www.cls.cn/detail/2384590",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时41分]"
+        },
+        {
+          "title": "高盛交易员认为不受青睐的板块有望迎来轧空，助推美股下一轮上涨",
+          "url": "https://wallstreetcn.com/livenews/3110886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "02时41分"
         },
         {
           "title": "空头大军意外成推手？高盛：美股或迎“轧空式”新涨势！",
@@ -191,7 +335,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
         }
@@ -209,8 +353,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 02时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
+          "url": "https://wallstreetcn.com/livenews/3110860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         }
       ]
     },
@@ -223,11 +384,29 @@
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 02时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.25%，暂报2631.0点，北京时间04:00-12:00持续下挫，之后持续交投于2600点附近，日线图上，指数自2月份以来持续窄幅震荡于3000-2300点趋近。 MarketVectorTM数字资产100中盘指数跌4.58%，报2869.46点。 MarketVector数字资产100指数跌2.60，报14472.31点。 目前，Solana跌2.36%，狗狗币跌2.59%，XRP暂时持平。 比特币跌2.17%，暂报73265.71美元；以太坊跌2.16%，暂报2009.17美元。",
+          "url": "https://wallstreetcn.com/livenews/3110872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         }
       ]
     }
