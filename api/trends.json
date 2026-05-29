@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T11:44:24.202212+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-05-29T15:58:55.825602+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,32 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时01分 ~ 07时19分]"
+        },
+        {
+          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时41分 ~ 15时58分]"
+        },
+        {
+          "title": "伊朗称击落一架美军飞机，美方回应",
+          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 15时58分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：西方消息人士称伊朗与美国之间的谅解备忘录已达成的报道不属实。伊朗尚未通知巴基斯坦调解方文本已最终确定，一旦最终确定，伊朗将向巴基斯坦调解方和公众宣布此事。",
@@ -76,19 +102,6 @@
           "time_info": "07时19分"
         },
         {
-          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时41分 ~ 11时44分]"
-        },
-        {
           "title": "以媒：以色列空袭贝鲁特，意在打击伊朗民兵组织指挥官",
           "url": "https://wallstreetcn.com/livenews/3110848",
           "source": "华尔街见闻-快讯",
@@ -98,17 +111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "伊朗称击落一架美军飞机，美方回应",
-          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社援引谈判团队内部消息人士称，潜在谅解备忘录的文本尚未最终确定或确认。",
@@ -154,6 +156,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 07时19分]"
+        },
+        {
+          "title": "美称敲定“谅解备忘录”遭伊朗否认",
+          "url": "https://www.toutiao.com/trending/7645098099924323890/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 15时58分]"
         },
         {
           "title": "伊朗说“亚伯拉罕协议”加剧地区不安全",
@@ -321,17 +335,6 @@
           "time_info": "07时19分"
         },
         {
-          "title": "美称敲定“谅解备忘录”遭伊朗否认",
-          "url": "https://www.toutiao.com/trending/7645098099924323890/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：来自海洋的声音是由于霍尔木兹海峡内对船只的警告火交换所致。",
           "url": "https://flash.jin10.com/detail/20260529041150687800",
           "source": "金十数据",
@@ -456,9 +459,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 15时58分]"
         },
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
@@ -467,9 +470,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时44分 ~ 15时58分]"
         },
         {
           "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
@@ -545,7 +548,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -619,7 +622,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -633,17 +636,6 @@
           "time_info": "[00时01分 ~ 07时19分]"
         },
         {
-          "title": "特朗普调侃赫格塞思：他热衷战争",
-          "url": "https://v.ifeng.com/c/8tSottvMqyW",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 11时44分]"
-        },
-        {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
           "url": "https://wallstreetcn.com/articles/3773378",
           "source": "华尔街见闻",
@@ -653,8 +645,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时41分 ~ 11时44分]"
+          "appearance_count": 7,
+          "time_info": "[02时41分 ~ 15时58分]"
+        },
+        {
+          "title": "特朗普调侃赫格塞思：他热衷战争",
+          "url": "https://v.ifeng.com/c/8tSottvMqyW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 11时44分]"
         },
         {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
@@ -732,6 +735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
+          "url": "https://news.ifeng.com/c/8tW3etoYczE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "美国总统特朗普：（置评伊朗冲突）我们掌握所有筹码。伊朗在军事上被击败。",
@@ -819,7 +833,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         },
@@ -830,7 +844,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
         }
@@ -876,6 +890,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "据网络状况监测网站DownDetector的数据，用户报告显示OpenAI的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260529111524394800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -890,23 +932,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时01分 ~ 11时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据网络状况监测网站DownDetector的数据，用户报告显示OpenAI的使用出现问题。",
-          "url": "https://flash.jin10.com/detail/20260529111524394800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时44分"
         }
       ]
     },
