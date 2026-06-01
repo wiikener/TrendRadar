@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T14:04:07.947294+08:00",
-  "total_titles_processed": 790,
+  "generated_at": "2026-06-01T20:38:23.338006+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "伊朗总统已向最高领袖提出辞职？官方回应",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 08时07分]"
+        },
+        {
+          "title": "美军称成功拦截两枚瞄准驻科威特美军的伊朗导弹",
+          "url": "https://flash.jin10.com/detail/20260601200835831800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "美国中央司令部：美军昨晚拦截了两枚伊朗的弹道导弹。 导弹的目标是驻科威特美军。 导弹被击落，无美军人员伤亡。",
+          "url": "https://wallstreetcn.com/livenews/3112433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
@@ -173,6 +195,17 @@
           "time_info": "[04时10分 ~ 06时01分]"
         },
         {
+          "title": "伊朗总统：要么强硬前行，要么牺牲",
+          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 20时38分]"
+        },
+        {
           "title": "伊朗宣布打击并摧毁美军目标",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E6%89%93%E5%87%BB%E5%B9%B6%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87",
           "source": "百度热搜",
@@ -194,17 +227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 02时04分]"
-        },
-        {
-          "title": "伊朗总统：要么强硬前行，要么牺牲",
-          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 14时04分]"
         },
         {
           "title": "美国财长贝森特：对伊朗的围攻以及对哈尔科夫石油出口的阻止仍在继续。",
@@ -252,6 +274,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时03分 ~ 14时04分]"
+        },
+        {
+          "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
+          "url": "https://news.ifeng.com/c/8tbSvd3YFSk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "伊朗总统府再度否认佩泽希齐扬辞职传闻",
@@ -337,9 +370,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "伊朗总统与日本首相讨论霍尔木兹海峡问题。",
+          "url": "https://wallstreetcn.com/livenews/3112407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "伊朗总统府再度否认佩泽希齐扬辞职传闻",
@@ -448,6 +492,17 @@
           "time_info": "[00时10分 ~ 08时07分]"
         },
         {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 20时38分]"
+        },
+        {
           "title": "特朗普将伊拉克纳入特使汤姆·巴拉克治叙职能范围",
           "url": "https://wallstreetcn.com/livenews/3111962",
           "source": "华尔街见闻-快讯",
@@ -457,17 +512,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时04分 ~ 06时01分]"
-        },
-        {
-          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
-          "url": "https://news.ifeng.com/c/8taubWZltKg",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 14时04分]"
         },
         {
           "title": "特朗普驳斥伊朗协议不涉及核问题的消息",
@@ -570,7 +614,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -614,7 +658,107 @@
           "ranks": [
             25
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "四大事件密集引爆，6月美股或迎来最强震荡！",
+          "url": "https://flash.jin10.com/detail/20260601200746117800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "IBM美股盘前一度大涨15%，周末一段特朗普在去年12月某活动上称赞IBM首席执行官并讨论该公司股票的视频在社交媒体上再次流传。包括Polymarket Money在内的数十个账号在社交媒体平台X上发布了这段评论视频。",
+          "url": "https://wallstreetcn.com/livenews/3112430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "英伟达美股夜盘股价上涨2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3112174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "美股软件股盘前持续走高，ServiceNow上涨11%，Adobe上涨5.7%。",
+          "url": "https://wallstreetcn.com/livenews/3112400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "美股的“午夜钟声”或将敲响",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9A%84%E2%80%9C%E5%8D%88%E5%A4%9C%E9%92%9F%E5%A3%B0%E2%80%9D%E6%88%96%E5%B0%86%E6%95%B2%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "高通美股盘前跌幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3112391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "欧盟云计算法律草案将使亚马逊、谷歌、微软在欧洲竞标“极为关键”云计算服务面临更多复杂要求。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3112418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
+        },
+        {
+          "title": "谷歌今夏将在日本东京开设美国以外首家零售店",
+          "url": "https://wallstreetcn.com/livenews/3112161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         }
@@ -650,34 +794,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达美股夜盘股价上涨2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3112174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时04分"
-        },
-        {
-          "title": "美股的“午夜钟声”或将敲响",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9A%84%E2%80%9C%E5%8D%88%E5%A4%9C%E9%92%9F%E5%A3%B0%E2%80%9D%E6%88%96%E5%B0%86%E6%95%B2%E5%93%8D",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -692,23 +808,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时10分 ~ 08时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌今夏将在日本东京开设美国以外首家零售店",
-          "url": "https://wallstreetcn.com/livenews/3112161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时04分"
         }
       ]
     }
