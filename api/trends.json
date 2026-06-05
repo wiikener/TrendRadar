@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T06:24:40.139118+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-06-05T08:10:26.655468+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
@@ -25,9 +25,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -36,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -220,13 +231,24 @@
           "time_info": "[04时58分 ~ 06时24分]"
         },
         {
+          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
+          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
           "title": "据福克斯新闻：特朗普政府计划发布一项政策声明，告知各银行在提供抵押贷款和信用卡时，可能会将客户的移民身份作为评估其偿还能力的因素之一。",
           "url": "https://flash.jin10.com/detail/20260605053303350800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -237,7 +259,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -281,9 +303,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2391265",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "特朗普：愿见伊朗新最高领袖，“他在某些圈子里口碑不错”",
+          "url": "https://flash.jin10.com/detail/20260605071426390800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "美国总统特朗普：我们将与印度达成贸易协议。",
@@ -306,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "曝特朗普将现场观看NBA总决赛G3",
+          "url": "https://www.toutiao.com/trending/7647682623816338954/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "美国总统特朗普：无论是在军事上还是在纸面上，我们都会赢。",
@@ -347,7 +402,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -380,7 +435,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -402,7 +457,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -464,82 +519,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "据黎巴嫩电视台Al-Mayadeen：伊朗外长阿拉格齐表示，伊朗有能力维持战争，但不寻求战争。",
-          "url": "https://flash.jin10.com/detail/20260605020723148800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "哈马斯高官与伊朗外长通话，讨论地区局势",
-          "url": "https://wallstreetcn.com/livenews/3114653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "伊朗“圣城旅”喊话以色列",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E5%9C%A3%E5%9F%8E%E6%97%85%E2%80%9D%E5%96%8A%E8%AF%9D%E4%BB%A5%E8%89%B2%E5%88%97",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 06时24分]"
-        },
-        {
-          "title": "据CNN：视频显示，今年3月参与对伊朗军事行动时发生火灾的美国“福特”号航母，其损坏程度比海军方面所说的要严重得多。",
-          "url": "https://flash.jin10.com/detail/20260605051927289800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "航运数据显示，伊朗5月份石油出口量降至每日30万桶以下，创至少六年来的新低。",
-          "url": "https://wallstreetcn.com/livenews/3114569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "伊朗外长：地区国家不应让美国利用其领土攻击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3114602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
@@ -558,11 +539,34 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时17分 ~ 06时24分]"
+          "appearance_count": 6,
+          "time_info": "[02时17分 ~ 08时10分]"
+        },
+        {
+          "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
+          "url": "https://www.cls.cn/detail/2391243",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "李大霄谈美股风险释放",
@@ -600,12 +604,109 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 06时24分]"
+        },
+        {
+          "title": "汇丰：美股转空的三大信号",
+          "url": "https://wallstreetcn.com/articles/3773857",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "据黎巴嫩电视台Al-Mayadeen：伊朗外长阿拉格齐表示，伊朗有能力维持战争，但不寻求战争。",
+          "url": "https://flash.jin10.com/detail/20260605020723148800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "伊朗“圣城旅”喊话以色列",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E5%9C%A3%E5%9F%8E%E6%97%85%E2%80%9D%E5%96%8A%E8%AF%9D%E4%BB%A5%E8%89%B2%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            16,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时17分 ~ 08时10分]"
+        },
+        {
+          "title": "哈马斯高官与伊朗外长通话，讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3114653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "据CNN：视频显示，今年3月参与对伊朗军事行动时发生火灾的美国“福特”号航母，其损坏程度比海军方面所说的要严重得多。",
+          "url": "https://flash.jin10.com/detail/20260605051927289800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "航运数据显示，伊朗5月份石油出口量降至每日30万桶以下，创至少六年来的新低。",
+          "url": "https://wallstreetcn.com/livenews/3114569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "哈马斯高官与伊朗外长通话讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260605070736550800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "伊朗外长：地区国家不应让美国利用其领土攻击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3114602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时58分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -641,6 +742,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "据Business Insider：谷歌(GOOG.O)正悄然裁减其云部门员工。",
+          "url": "https://flash.jin10.com/detail/20260605064523592800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
           "title": "纳斯达克100指数跌幅收窄至0.5%，成分股博通目前仍然跌14.5%，美光科技跌6.1%，Lumentum跌2.3%，特斯拉跌1.1%，谷歌A则涨3.5%，迈威尔科技/美满科技、Doordash涨3.9%。",
           "url": "https://wallstreetcn.com/livenews/3114548",
           "source": "华尔街见闻-快讯",
@@ -650,6 +762,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "报道：美国就收购OpenAI等多家人工智能公司股份举行了初步讨论",
+          "url": "https://wallstreetcn.com/livenews/3114670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         }
       ]
     },
