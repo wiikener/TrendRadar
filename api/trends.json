@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T13:03:01.849696+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-06-23T17:42:01.550233+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 51,
       "titles": [
         {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时30分 ~ 13时03分]"
+          "appearance_count": 8,
+          "time_info": "[03时30分 ~ 17时42分]"
         },
         {
           "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
@@ -45,6 +45,18 @@
           "time_info": "[03时30分 ~ 08时08分]"
         },
         {
+          "title": "伊朗公布首批解冻资金用途",
+          "url": "https://news.ifeng.com/c/8uBeuEEfSWu",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 17时42分]"
+        },
+        {
           "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
           "url": "https://m.thepaper.cn/newsDetail_forward_33426063",
           "source": "澎湃新闻",
@@ -54,6 +66,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时30分 ~ 08时08分]"
+        },
+        {
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            18,
+            16,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时30分 ~ 17时42分]"
         },
         {
           "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
@@ -79,17 +106,6 @@
           "time_info": "[03时30分 ~ 06时04分]"
         },
         {
-          "title": "伊朗公布首批解冻资金用途",
-          "url": "https://news.ifeng.com/c/8uBeuEEfSWu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
-        },
-        {
           "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
           "url": "https://www.zhihu.com/question/2050890957483202069",
           "source": "知乎",
@@ -103,18 +119,26 @@
           "time_info": "[03时30分 ~ 13时03分]"
         },
         {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
+          "title": "伊朗：近期通过海峡运输了大量石油。",
+          "url": "https://wallstreetcn.com/livenews/3123346",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17,
-            18,
-            16,
-            22
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时30分 ~ 13时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡对商船完全开放。（ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3123343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗谈判代表团团长在阿曼外长的欢迎下抵达马斯喀特。",
@@ -173,6 +197,17 @@
           "time_info": "[13时02分 ~ 13时03分]"
         },
         {
+          "title": "伊朗：导弹和国防不会成谈判议题",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%AF%BC%E5%BC%B9%E5%92%8C%E5%9B%BD%E9%98%B2%E4%B8%8D%E4%BC%9A%E6%88%90%E8%B0%88%E5%88%A4%E8%AE%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
           "title": "土耳其总统与伊朗总统通话 聚焦双边合作及伊美谈判",
           "url": "https://flash.jin10.com/detail/20260623023848203800",
           "source": "金十数据",
@@ -182,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "阿曼苏丹会见伊朗议长 讨论伊美谈判最新进展",
+          "url": "https://flash.jin10.com/detail/20260623171211258800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "伊朗外交部：伊美达成协议文件",
@@ -206,6 +252,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "丹麦驻伊朗大使馆重新开放",
+          "url": "https://wallstreetcn.com/livenews/3123333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "伊朗将在已故最高领袖葬礼期间实施航班管制",
           "url": "https://wallstreetcn.com/livenews/3122988",
           "source": "华尔街见闻-快讯",
@@ -226,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "伊朗称在卢比奥海湾之行前120亿美元将解冻",
+          "url": "https://wallstreetcn.com/livenews/3123332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "伊朗央行行长：剩余的被冻结资金不一定仅用于基本商品，伊朗将能够购买其他未受制裁的商品。",
@@ -261,6 +329,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "伊朗外交部发言人：伊朗导弹计划从未纳入谈判范围。",
+          "url": "https://wallstreetcn.com/livenews/3123329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "伊朗议长：伊美应共同保障黎巴嫩领土完整",
           "url": "https://flash.jin10.com/detail/20260623044656583800",
           "source": "金十数据",
@@ -270,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "丹麦驻伊朗大使馆重新开放",
+          "url": "https://flash.jin10.com/detail/20260623170716846800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
@@ -322,7 +412,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -336,6 +426,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "伊朗称导弹和国防不会成为谈判议题",
+          "url": "https://wallstreetcn.com/livenews/3123321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "美国豁免制裁前一周，伊朗出口了3000万桶原油",
@@ -399,7 +500,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -415,6 +516,17 @@
           "time_info": "08时08分"
         },
         {
+          "title": "阿曼外交部：阿曼苏丹认真听取了伊朗方面关于各项议题的说明，并表示支持和希望这些谈判能够取得成功，最终和平解决所有遗留问题，其中首要的是恢复并确保霍尔木兹海峡航行安全、核问题以及其他相关事项和挑战。",
+          "url": "https://flash.jin10.com/detail/20260623165602294800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "伊朗原油重返市场预期升温 油价回归平静",
           "url": "https://flash.jin10.com/detail/20260623063758383800",
           "source": "金十数据",
@@ -426,6 +538,17 @@
           "time_info": "08时08分"
         },
         {
+          "title": "阿曼外交部：今日阿曼苏丹与伊朗议会议长卡利巴夫及伊朗外长阿拉格齐进行了会晤，会议期间，双方就伊朗与美国谈判的进展进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260623165514751800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "120亿美元？伊朗否认将用解冻资金买美农产品",
           "url": "https://wallstreetcn.com/livenews/3123047",
           "source": "华尔街见闻-快讯",
@@ -435,6 +558,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：伊朗的导弹计划从未是谈判的一部分。",
+          "url": "https://flash.jin10.com/detail/20260623165340817800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "IEA署长：伊朗能源危机将推动全球电气化进程",
@@ -451,7 +585,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -499,6 +633,39 @@
           "time_info": "[13时02分 ~ 13时03分]"
         },
         {
+          "title": "美部长拍特朗普马屁，当场被打脸",
+          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "特朗普点名英意德差劲",
+          "url": "https://news.ifeng.com/c/8uC00MLRSEF",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
           "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
           "url": "https://www.cls.cn/detail/2406197",
           "source": "财联社热门",
@@ -527,7 +694,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时03分"
         },
@@ -585,6 +752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "特朗普：美汽车巨头将开始生产导弹",
+          "url": "https://www.toutiao.com/trending/7654379948538855478/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "美国总统特朗普：祝愿（刚刚辞去英国首相职务的）斯塔默一切顺利。",
@@ -699,9 +877,129 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
+          "url": "https://www.cls.cn/detail/2406212",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时08分 ~ 17时41分]"
+        },
+        {
+          "title": "金价又又又崩了",
+          "url": "https://news.ifeng.com/c/8uBh0V2wuzK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 17时42分]"
+        },
+        {
+          "title": "金价狂泻30%",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E6%B3%BB30%25%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        },
+        {
+          "title": "国际金价“高台跳水” 金饰价格降了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E9%AB%98%E5%8F%B0%E8%B7%B3%E6%B0%B4%E2%80%9D+%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时02分 ~ 13时03分]"
+        },
+        {
+          "title": "德意志银行：预计第三季度金价将达4300美元/盎司，第四季度将达4800美元/盎司。 美联储加息，金价存在跌至3800美元/盎司的风险。",
+          "url": "https://wallstreetcn.com/livenews/3123168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "金价大幅下调 有人花40万买婚嫁金",
+          "url": "https://www.toutiao.com/trending/7653503437799718948/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "德意志银行：如果美联储加息，黄金价格可能会跌至3800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260623121000175800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "德意志银行：预计第三季度黄金价格将达到4300美元/盎司，第四季度将达4800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260623120926115800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "金价下调阿姨花40万买婚嫁金",
+          "url": "https://www.toutiao.com/trending/7653503437799718948/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 9,
       "titles": [
+        {
+          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
+          "url": "https://www.cls.cn/detail/2406236",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 17时42分]"
+        },
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
           "url": "https://www.cls.cn/detail/2406186",
@@ -724,17 +1022,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时30分 ~ 06时04分]"
-        },
-        {
-          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
-          "url": "https://www.cls.cn/detail/2406236",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
         },
         {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
@@ -806,75 +1093,42 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 6,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
       "titles": [
         {
-          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
-          "url": "https://www.cls.cn/detail/2406212",
-          "source": "财联社热门",
+          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
+          "url": "https://wallstreetcn.com/articles/3775170",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时08分 ~ 13时03分]"
-        },
-        {
-          "title": "金价又又又崩了",
-          "url": "https://news.ifeng.com/c/8uBh0V2wuzK",
-          "source": "凤凰网",
-          "ranks": [
+            8,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "appearance_count": 4,
+          "time_info": "[03时30分 ~ 08时08分]"
         },
         {
-          "title": "国际金价“高台跳水” 金饰价格降了",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E9%AB%98%E5%8F%B0%E8%B7%B3%E6%B0%B4%E2%80%9D+%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%BA%86",
-          "source": "百度热搜",
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
           "ranks": [
-            17
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时02分 ~ 13时03分]"
+          "time_info": "[17时41分 ~ 17时42分]"
         },
         {
-          "title": "德意志银行：预计第三季度金价将达4300美元/盎司，第四季度将达4800美元/盎司。 美联储加息，金价存在跌至3800美元/盎司的风险。",
-          "url": "https://wallstreetcn.com/livenews/3123168",
+          "title": "DeepSeek新部门疯狂招人，负责人否认“不招外国人”",
+          "url": "https://wallstreetcn.com/livenews/3123327",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "德意志银行：如果美联储加息，黄金价格可能会跌至3800美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260623121000175800",
-          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时03分"
-        },
-        {
-          "title": "德意志银行：预计第三季度黄金价格将达到4300美元/盎司，第四季度将达4800美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260623120926115800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时03分"
+          "time_info": "17时42分"
         }
       ]
     },
@@ -946,6 +1200,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时08分 ~ 17时42分]"
+        },
+        {
+          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
+          "url": "https://wallstreetcn.com/articles/3775250",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时41分 ~ 17时42分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -970,41 +1252,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
-          "url": "https://wallstreetcn.com/articles/3775170",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时30分 ~ 08时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时08分 ~ 13时03分]"
         }
       ]
     }
