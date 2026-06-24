@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-24T19:46:31.870288+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2026-06-24T22:33:48.129984+08:00",
+  "total_titles_processed": 1396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 22时33分]"
+        },
         {
           "title": "美国参议院投票决定暂停对伊朗的战争，除非特朗普获得国会批准。",
           "url": "https://flash.jin10.com/detail/20260624034400729800",
@@ -30,15 +41,15 @@
           "time_info": "12时19分"
         },
         {
-          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
-          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
-          "source": "凤凰网",
+          "title": "白宫新闻秘书莱维特：总统特朗普将于周四在白宫设晚宴款待农民。",
+          "url": "https://flash.jin10.com/detail/20260624221123058800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时46分"
+          "time_info": "22时33分"
         },
         {
           "title": "美国总统特朗普打算周三在国会山签署住房法案。（PunchBowl）",
@@ -80,7 +91,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -113,7 +124,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -127,6 +138,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 22时33分]"
         },
         {
           "title": "美部长拍特朗普马屁，当场被打脸",
@@ -164,19 +189,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时58分 ~ 07时59分]"
-        },
-        {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 19时46分]"
         },
         {
           "title": "梅洛尼与特朗普突然“翻脸”后，意大利试图“降调”缓和关系",
@@ -340,7 +352,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -362,7 +374,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -587,6 +599,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "白宫：特朗普将于周五在华盛顿主持会议。",
+          "url": "https://wallstreetcn.com/livenews/3124067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我们做得相当不错。",
           "url": "https://flash.jin10.com/detail/20260624025528702800",
           "source": "金十数据",
@@ -620,6 +643,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "特朗普批评“假新闻”：伊朗已向美国保证，霍尔木兹海峡不收费！",
+          "url": "https://flash.jin10.com/detail/20260624214339217800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美参议院通过决议要求特朗普结束对伊朗战事",
           "url": "https://wallstreetcn.com/livenews/3123726",
           "source": "华尔街见闻-快讯",
@@ -634,8 +668,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
+          "url": "https://news.ifeng.com/c/8uDfZ9C9pMR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时46分 ~ 22时33分]"
+        },
         {
           "title": "伊朗议长说中东安全由中东国家决定",
           "url": "https://wallstreetcn.com/livenews/3123904",
@@ -679,17 +724,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
-        },
-        {
-          "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
-          "url": "https://news.ifeng.com/c/8uDfZ9C9pMR",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
         },
         {
           "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
@@ -780,7 +814,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -794,6 +828,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "国际原子能机构要求核查 伊朗称须在最终协议内",
+          "url": "https://wallstreetcn.com/livenews/3124083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "富国银行新兴市场策略师Álvaro Vivanco：我们正进一步进入这样一个时期：在全球经济增速放缓和美联储鹰派立场主导下，伊朗问题全面解决所剩无几的微小溢价将被抹平。 这意味着新兴市场外汇将面临压力，同时利率也仍有进一步压缩的空间。",
@@ -813,7 +858,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -879,7 +924,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -901,7 +946,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -967,15 +1012,37 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "伊朗：签谅解备忘录表明“美国战败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AD%BE%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E8%A1%A8%E6%98%8E%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%88%98%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "伊朗议长：伊美签署谅解备忘录表明“美国战败”",
+          "url": "https://wallstreetcn.com/livenews/3124057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
@@ -1002,6 +1069,17 @@
           "time_info": "[06时15分 ~ 12时19分]"
         },
         {
+          "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "美股半导体指数初步收跌约7.9%，创6月5日以来最差单日表现。 标普500指数初步收跌1.3%，科技板块跌3.4%，工业、原材料板块至多跌1.9%，房地产、保健、日用消费品板块至多涨1.8%。 纳斯达克100指数初步收跌3.2%，成分股中，闪迪初步收跌13.7%，美光科技跌3.1%，Arm控股跌10.1%，西部数据、美满电子、阿斯麦ADR至少跌约8%，英特尔跌6%，英伟达跌4%，汤森路透涨5.6%，Axon涨5.8%。 IBM初步收涨4.8%，Merck涨3.6%，领跑道指成分股，波音跌1.7%，霍尼韦尔跌2.4%，卡特彼勒跌3.5%，与英伟达表现最差。",
           "url": "https://wallstreetcn.com/livenews/3123625",
           "source": "华尔街见闻-快讯",
@@ -1019,7 +1097,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -1071,6 +1149,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "Cerebras Systems美股盘后跌幅扩大至10%。",
           "url": "https://wallstreetcn.com/livenews/3123665",
           "source": "华尔街见闻-快讯",
@@ -1080,6 +1169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2408279",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美股芯片股全线重挫",
@@ -1113,6 +1213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "美股盘初：黄金股普跌，SpaceX跌约1%",
+          "url": "https://wallstreetcn.com/livenews/3124074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "耐克美股盘后涨2%，该公司任命辉瑞制药高管David M. Denton为首席财务官（CFO），8月17日生效。",
@@ -1181,6 +1292,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "SpaceX美股盘前跌幅扩大至2.7%，至日内低点。",
+          "url": "https://wallstreetcn.com/livenews/3124063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "新兴市场ETF收跌将近5.7%，与纳指ETF领跌美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3123636",
           "source": "华尔街见闻-快讯",
@@ -1195,8 +1317,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://www.douyin.com/hot/2546511",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
         {
           "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
           "url": "https://www.zhihu.com/question/2052707670289806571",
@@ -1263,9 +1396,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
+        },
+        {
+          "title": "金价跌破4000美元 贵金属矿商股大跌",
+          "url": "https://flash.jin10.com/detail/20260624215606073800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "金价跌到位了吗",
@@ -1289,11 +1433,12 @@
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时59分 ~ 19时46分]"
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 22时33分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
@@ -1481,6 +1626,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI和博通发布AI芯片，旨在更快、更经济地运行模型",
+          "url": "https://wallstreetcn.com/livenews/3124062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         }
       ]
     }
