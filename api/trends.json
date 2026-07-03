@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-03T06:08:38.402868+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-07-03T08:07:35.439056+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
-        {
-          "title": "特朗普重申：伊朗将从美国购买食品",
-          "url": "https://flash.jin10.com/detail/20260703060408656800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
         {
           "title": "特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储",
           "url": "https://wallstreetcn.com/livenews/3128178",
@@ -30,35 +19,13 @@
           "time_info": "02时26分"
         },
         {
-          "title": "特朗普称AI将超过90年代末的互联网繁荣 预计过半芯片在美生产",
-          "url": "https://flash.jin10.com/detail/20260703060215958800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
           "title": "特朗普谈伊朗：这是无核化，我认为这是政权更迭",
           "url": "https://wallstreetcn.com/livenews/3128242",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "美国总统特朗普：不希望在任内出现全球性萧条。",
-          "url": "https://flash.jin10.com/detail/20260703055739392800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -69,18 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "美国总统特朗普还赞扬了戴尔(DELL.N)公司。",
-          "url": "https://flash.jin10.com/detail/20260703055727803800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -91,18 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "美国总统特朗普：美光科技(MU.O)是一家“炙手可热的公司”，由一位“很棒的人”经营。",
-          "url": "https://flash.jin10.com/detail/20260703055641484800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -115,8 +60,104 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 08时07分]"
+        },
+        {
+          "title": "特朗普重申：伊朗将从美国购买食品",
+          "url": "https://flash.jin10.com/detail/20260703060408656800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 08时07分]"
+        },
+        {
+          "title": "特朗普称AI将超过90年代末的互联网繁荣 预计过半芯片在美生产",
+          "url": "https://flash.jin10.com/detail/20260703060215958800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 08时07分]"
+        },
+        {
+          "title": "美国总统特朗普：不希望在任内出现全球性萧条。",
+          "url": "https://flash.jin10.com/detail/20260703055739392800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 08时07分]"
+        },
+        {
+          "title": "美国总统特朗普还赞扬了戴尔(DELL.N)公司。",
+          "url": "https://flash.jin10.com/detail/20260703055727803800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 08时07分]"
+        },
+        {
+          "title": "美国总统特朗普：美光科技(MU.O)是一家“炙手可热的公司”，由一位“很棒的人”经营。",
+          "url": "https://flash.jin10.com/detail/20260703055641484800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 08时07分]"
+        },
+        {
+          "title": "美国总统特朗普：马斯克对我在电动汽车强制令上的决定“并不高兴”。",
+          "url": "https://flash.jin10.com/detail/20260703055441954800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 08时07分]"
+        },
+        {
+          "title": "美国总统特朗普：我给马斯克写过一张便条，祝贺他成为“万亿富翁”。",
+          "url": "https://flash.jin10.com/detail/20260703055318932800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 08时07分]"
+        },
+        {
+          "title": "美国总统特朗普：我们已经在军事上彻底击败了伊朗。他们还剩下一些导弹。我们也可以把它们全部摧毁。",
+          "url": "https://flash.jin10.com/detail/20260703055024068800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时08分 ~ 08时07分]"
         },
         {
           "title": "特朗普参加活动后直接拿走剪刀",
@@ -131,26 +172,15 @@
           "time_info": "[02时26分 ~ 06时08分]"
         },
         {
-          "title": "美国总统特朗普：马斯克对我在电动汽车强制令上的决定“并不高兴”。",
-          "url": "https://flash.jin10.com/detail/20260703055441954800",
+          "title": "特朗普暗示沃什在美联储的工作不好开展 继续尝试赶走“刺头”",
+          "url": "https://flash.jin10.com/detail/20260703070405676800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时08分"
-        },
-        {
-          "title": "美国总统特朗普：我给马斯克写过一张便条，祝贺他成为“万亿富翁”。",
-          "url": "https://flash.jin10.com/detail/20260703055318932800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "08时07分"
         },
         {
           "title": "美国总统特朗普：我认为马斯克会将SpaceX(SPCX.O)股票捐赠给“特朗普账户”。",
@@ -159,7 +189,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -170,20 +200,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
         {
-          "title": "美国总统特朗普：我们已经在军事上彻底击败了伊朗。他们还剩下一些导弹。我们也可以把它们全部摧毁。",
-          "url": "https://flash.jin10.com/detail/20260703055024068800",
+          "title": "“解放日”关税掀市场巨震，特朗普账户却在疯狂扫货科技股",
+          "url": "https://flash.jin10.com/detail/20260703065821847800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时08分"
+          "time_info": "08时07分"
         },
         {
           "title": "美国总统特朗普谈家族加密货币生意，声称：在（再次）担任总统之前就有了。 我希望我们在加密货币领域是第一的，事实上也是如此。 我们必须在加密货币领域领先。 对于加密货币收益，我一无所知；这样的收益并不违法。",
@@ -192,7 +222,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -214,9 +244,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "特朗普回应获得巨额收益：不知情",
+          "url": "https://flash.jin10.com/detail/20260703065333579800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "美国总统特朗普：我持有一些英伟达股票，但我认为很少。 赞赏英伟达CEO黄仁勋。",
@@ -225,7 +266,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -236,7 +277,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -247,7 +288,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -269,7 +310,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -280,7 +321,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -302,7 +343,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -335,7 +376,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -346,7 +387,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -357,7 +398,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -368,7 +409,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -379,9 +420,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "特朗普称沃什面临“有点敌意”的美联储理事会，重申将推动罢免库克",
+          "url": "https://wallstreetcn.com/livenews/3128266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "美国总统特朗普：我认为人工智能比互联网更重要。",
@@ -390,7 +442,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -401,7 +453,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -412,7 +464,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -423,7 +475,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         },
@@ -434,16 +486,38 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "特朗普认为马斯克会向“特朗普账户”捐赠SpaceX股票",
+          "url": "https://flash.jin10.com/detail/20260703055138280800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2415963",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260703003147514800",
@@ -487,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
+          "url": "https://www.cls.cn/detail/2415948",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
@@ -551,9 +636,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "美股芯片光通信大跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E5%85%89%E9%80%9A%E4%BF%A1%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "周四（7月2日），美股降息赢家指数跌0.02%，报98.42点，在美国非农就业报告出炉后高开低走，整体呈现出W形走势，本周累计下跌1.58%。",
+          "url": "https://wallstreetcn.com/livenews/3128254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         }
       ]
     },
@@ -561,6 +668,21 @@
       "keyword_group": "美元",
       "match_count": 5,
       "titles": [
+        {
+          "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
+          "url": "https://www.zhihu.com/question/2056021886144864275",
+          "source": "知乎",
+          "ranks": [
+            16,
+            8,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 08时07分]"
+        },
         {
           "title": "北美科技软件股指数ETF涨0.25%，报93.57美元，整体高开低走。 Global X网络安全ETF涨0.38%，纳斯达克网络安全ETF跌0.48%，ETFMG网络安全ETF跌0.12%",
           "url": "https://wallstreetcn.com/livenews/3128214",
@@ -572,20 +694,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 06时08分]"
-        },
-        {
-          "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
-          "url": "https://www.zhihu.com/question/2056021886144864275",
-          "source": "知乎",
-          "ranks": [
-            16,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 06时08分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.05%，暂报2187.21点，整体持续震荡上行。 MarketVectorTM数字资产100中盘指数涨3.35%，报2532.09点。 MarketVector数字资产100指数涨3.33%，报12304.78点。 目前，Solana涨4.41%，狗狗币涨2.28%，XRP涨2.96%。 比特币涨2.59%，暂报61616.63美元，整体呈现出长尾W形走势；以太坊涨5.05%，暂报1699美元。",
@@ -695,11 +803,12 @@
             17,
             9,
             8,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 08时07分]"
         },
         {
           "title": "出现性能下降问题 DeepSeek回应",
@@ -712,8 +821,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时50分 ~ 06时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 08时07分]"
         },
         {
           "title": "为什么现在 DeepSeek 快速模式豆包化？",
@@ -722,11 +831,12 @@
           "ranks": [
             19,
             10,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时26分 ~ 06时08分]"
+          "appearance_count": 4,
+          "time_info": "[02时26分 ~ 08时07分]"
         }
       ]
     },
@@ -771,7 +881,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国总统特朗普被问及入股OpenAI，拿英特尔举例。",
@@ -780,9 +890,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
+        },
+        {
+          "title": "特朗普避谈政府是否入股OpenAI 但强调在英特尔的持股",
+          "url": "https://flash.jin10.com/detail/20260703061710084800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
         },
         {
           "title": "美国总统特朗普被问及OpenAI股份时，提到了英特尔(INTC.O)股份（美国政府入股了英特尔）。",
@@ -791,7 +912,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时08分"
         }
