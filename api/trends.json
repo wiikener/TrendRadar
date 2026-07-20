@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T14:48:15.389460+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-07-20T18:12:58.998200+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 72,
+      "match_count": 75,
       "titles": [
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -56,8 +56,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 18时12分]"
+        },
+        {
+          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
+          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时12分 ~ 14时48分]"
+          "time_info": "[11时54分 ~ 18时12分]"
         },
         {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
@@ -84,17 +95,6 @@
           "time_info": "[00时02分 ~ 01时10分]"
         },
         {
-          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
-          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 14时48分]"
-        },
-        {
           "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
           "url": "https://news.ifeng.com/c/8uuXB95ZA03",
           "source": "凤凰网",
@@ -102,8 +102,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 14时48分]"
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 18时12分]"
         },
         {
           "title": "伊朗前外长建议出动地面部队，夺取美军驻中东基地",
@@ -123,7 +123,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -546,13 +546,24 @@
           "time_info": "[14时47分 ~ 14时48分]"
         },
         {
+          "title": "伊朗司法总监：我们必须比以往任何时候都更加警惕那些煽动者、谣言散布者、伪善者和渗透者。",
+          "url": "https://flash.jin10.com/detail/20260720180438856800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "美国两次空袭击中伊朗布什尔。（法尔斯通讯社）",
           "url": "https://wallstreetcn.com/livenews/3136637",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -585,7 +596,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -678,6 +689,17 @@
           "time_info": "10时12分"
         },
         {
+          "title": "伊朗司法总监：那些被派往前线、战场和街头的人们强调，必须继续开展圣战，打击侵略成性、背信弃义的敌人，并已举起复仇的旗帜。国家官员之间不存在分歧，都认为美国敌人绝无信誉可言；我们绝不会以任何方式向其屈服，并将坚持到底。",
+          "url": "https://flash.jin10.com/detail/20260720175441234800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗称，阿巴丹发生的爆炸与伊朗军方行动有关，并非美国发动的袭击。",
           "url": "https://flash.jin10.com/detail/20260719235835642800",
           "source": "金十数据",
@@ -706,7 +728,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -750,7 +772,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -772,7 +794,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -797,6 +819,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "伊拉克民兵武装就美袭击伊朗发声",
+          "url": "https://www.toutiao.com/trending/7664146504593260563/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "一名美军人员在伊拉克执行涉伊朗任务时死亡",
@@ -846,7 +879,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
@@ -895,6 +928,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时12分 ~ 14时48分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-20）",
+          "url": "https://flash.jin10.com/detail/20260720180937404800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "特朗普：美国将立即再次申办世界杯 决赛看好阿根廷",
@@ -1000,6 +1044,18 @@
           "time_info": "[03时08分 ~ 06时54分]"
         },
         {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 18时12分]"
+        },
+        {
           "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
           "url": "https://wallstreetcn.com/livenews/3136290",
           "source": "华尔街见闻-快讯",
@@ -1036,24 +1092,13 @@
           "time_info": "[03时08分 ~ 04时52分]"
         },
         {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 14时48分]"
-        },
-        {
           "title": "特朗普称新空军一号将升级改造",
           "url": "https://wallstreetcn.com/livenews/3136636",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -1124,6 +1169,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "特朗普隔着防弹玻璃现场看世界杯决赛",
+          "url": "https://www.toutiao.com/trending/7664367574197469203/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "特朗普称痛击伊朗为身亡美军报仇",
           "url": "https://wallstreetcn.com/livenews/3136417",
           "source": "华尔街见闻-快讯",
@@ -1184,7 +1240,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         },
@@ -1203,7 +1259,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
@@ -1217,6 +1273,17 @@
           "time_info": "[14时47分 ~ 14时48分]"
         },
         {
+          "title": "花旗：美股“科技7巨头”的标签已经过时",
+          "url": "https://flash.jin10.com/detail/20260720180357146800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "美股股指期货周一基本平开。",
           "url": "https://flash.jin10.com/detail/20260720060012850800",
           "source": "金十数据",
@@ -1228,13 +1295,24 @@
           "time_info": "06时54分"
         },
         {
+          "title": "花旗：在人工智能股票赢家中，美股“科技7巨头”的标签已经过时。",
+          "url": "https://flash.jin10.com/detail/20260720175653296800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "高盛：美股指数看似平静，个股和债市已提前起风？",
           "url": "https://flash.jin10.com/detail/20260720141241061800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
         }
@@ -1264,8 +1342,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时12分 ~ 14时48分]"
+          "appearance_count": 5,
+          "time_info": "[10时12分 ~ 18时12分]"
         }
       ]
     },
