@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T19:10:33.843926+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-07-21T21:53:02.900186+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
@@ -15,8 +15,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时46分 ~ 19时10分]"
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 21时53分]"
+        },
+        {
+          "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
+          "url": "https://wallstreetcn.com/articles/3777457",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 21时53分]"
         },
         {
           "title": "“全面战争”！伊朗总统最新发声",
@@ -51,18 +64,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时31分 ~ 19时10分]"
-        },
-        {
-          "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
-          "url": "https://wallstreetcn.com/articles/3777457",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时46分 ~ 19时10分]"
         },
         {
           "title": "“伊朗安全部门扣留法国2名外交人员”",
@@ -219,6 +220,28 @@
           "time_info": "07时10分"
         },
         {
+          "title": "科威特：正在应对伊朗的导弹和无人机袭击。",
+          "url": "https://wallstreetcn.com/livenews/3137610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
+          "title": "科威特方面表示，目前正在应对伊朗的无人机和导弹威胁。",
+          "url": "https://flash.jin10.com/detail/20260721212826005800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "伊朗打击美军在科威特基地的“海马斯”系统",
           "url": "https://wallstreetcn.com/livenews/3137231",
           "source": "华尔街见闻-快讯",
@@ -247,7 +270,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -269,7 +292,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -357,7 +380,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -368,7 +391,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -533,7 +556,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -574,8 +597,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
+          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 21时53分]"
+        },
         {
           "title": "特朗普：伊朗每杀死一名美军，必将付出数倍代价",
           "url": "https://news.ifeng.com/c/8uvQaW158Al",
@@ -588,16 +623,16 @@
           "time_info": "[04时22分 ~ 07时10分]"
         },
         {
-          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
-          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
+          "url": "https://news.ifeng.com/c/8uvIalkczmR",
           "source": "凤凰网",
           "ranks": [
-            6,
-            5
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时46分 ~ 19时10分]"
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 21时53分]"
         },
         {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
@@ -648,18 +683,6 @@
           "time_info": "[02时04分 ~ 07时10分]"
         },
         {
-          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
-          "url": "https://news.ifeng.com/c/8uvIalkczmR",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时46分 ~ 19时10分]"
-        },
-        {
           "title": "白宫：特朗普签署公告，授权商务部长制定激励计划，鼓励企业投资铝冶炼厂。",
           "url": "https://flash.jin10.com/detail/20260721034723509800",
           "source": "金十数据",
@@ -691,6 +714,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时31分 ~ 19时10分]"
+        },
+        {
+          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
+          "url": "https://www.zhihu.com/question/2062849285499138343",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时53分]"
         },
         {
           "title": "舒默称特朗普是美国史上最腐败总统",
@@ -847,17 +882,6 @@
           "time_info": "07时10分"
         },
         {
-          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
-          "url": "https://www.zhihu.com/question/2062849285499138343",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡在美国期间不会以任何形式遭到逮捕。",
           "url": "https://flash.jin10.com/detail/20260721005257690800",
           "source": "金十数据",
@@ -902,6 +926,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "特朗普将于7月28日林赛·格雷厄姆的葬礼上致词。",
+          "url": "https://wallstreetcn.com/livenews/3137586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "纽约市长称研究逮捕内塔尼亚胡，特朗普回应：绝不会发生",
           "url": "https://flash.jin10.com/detail/20260721040706607800",
           "source": "金十数据",
@@ -916,7 +951,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -924,11 +959,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时46分 ~ 19时10分]"
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 21时53分]"
         },
         {
           "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
@@ -977,6 +1013,19 @@
           "time_info": "[02时04分 ~ 10时46分]"
         },
         {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时31分 ~ 21时53分]"
+        },
+        {
           "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
           "url": "https://www.cls.cn/detail/2431934",
           "source": "财联社热门",
@@ -987,6 +1036,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时10分 ~ 13时53分]"
+        },
+        {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
         },
         {
           "title": "美股收盘：三大股指收跌 阿里巴巴涨4.6%",
@@ -1000,6 +1060,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "美股光通信板块上涨，迈威尔科技(MRVL.O)涨约6%，康宁(GLW.N)涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260721213311954800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "美股存储芯片反弹",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%8D%E5%BC%B9",
           "source": "百度热搜",
@@ -1011,16 +1082,15 @@
           "time_info": "[02时04分 ~ 07时10分]"
         },
         {
-          "title": "90后清华天才 干崩了美股",
-          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
-          "source": "百度热搜",
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨超3%，全球科技股指数ETF涨超2%，医疗业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3137614",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 19时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "花旗策略师称美股头寸平仓可能还未结束",
@@ -1032,6 +1102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "美股盘初：纳指涨1%，费城半导体指数涨4.5%，存储芯片股、光通信股大涨",
+          "url": "https://wallstreetcn.com/livenews/3137613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -1058,13 +1139,47 @@
           "time_info": "[04时22分 ~ 06时02分]"
         },
         {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://s.weibo.com/weibo?q=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D%20%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时53分]"
+        },
+        {
+          "title": "全球科技股反弹！美股盘前闪迪涨超7%，布油重回90美元上方，现货白银涨超4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时52分 ~ 21时53分]"
+        },
+        {
+          "title": "美股开盘，道指涨0.29%，标普500指数涨0.6%，纳指涨1.04%。美股存储股普涨，闪迪(SNDK.O)、西部数据(WDC.O)涨约9%，SK海力士(SKHY.O)、美光科技(MU.O)、希捷科技(STX.O)涨约7%。",
+          "url": "https://flash.jin10.com/detail/20260721213025367800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
+        {
           "title": "通用汽车美股盘前走低，现跌超4%，此前一度涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3137535",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -1075,7 +1190,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -1108,7 +1223,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -1130,20 +1245,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
         {
-          "title": "90后清华天才 干崩了美股",
-          "url": "https://s.weibo.com/weibo?q=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D%20%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3137596",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时10分"
+          "time_info": "21时53分"
         },
         {
           "title": "美股存储股盘前走强，闪迪(SNDK.O)涨约7%，SK海力士(SKHY.O)涨约6%，美光科技(MU.O)涨约5%，西部数据(WDC.O)涨约5%。",
@@ -1163,7 +1278,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -1209,6 +1324,29 @@
           "time_info": "[02时04分 ~ 02时05分]"
         },
         {
+          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
+          "url": "https://www.zhihu.com/question/2062579631564093084",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时53分]"
+        },
+        {
+          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
+          "url": "https://wallstreetcn.com/articles/3777510",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 21时53分]"
+        },
+        {
           "title": "如何看待追光总裁称《三国第一部：争洛阳》以曹操为主角，是参考了 DeepSeek 的建议?",
           "url": "https://www.zhihu.com/question/2061868472049652679",
           "source": "知乎",
@@ -1219,28 +1357,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时01分 ~ 07时10分]"
-        },
-        {
-          "title": "DeepSeek V4 开放灰度测试，你认为能超越 Kimi K3 吗？两个大模型各有哪些优劣？",
-          "url": "https://www.zhihu.com/question/2062579631564093084",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
-          "title": "复刻“DeepSeek时刻”？华尔街齐称：Kimi K3反而强化算力需求",
-          "url": "https://wallstreetcn.com/articles/3777510",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
         },
         {
           "title": "Kimi K3创造另一个“DeepSeek时刻”",
@@ -1265,11 +1381,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时46分 ~ 19时10分]"
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 21时53分]"
         },
         {
           "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
@@ -1360,18 +1477,30 @@
           "ranks": [
             6,
             15,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时52分 ~ 19时10分]"
+          "appearance_count": 7,
+          "time_info": "[13时52分 ~ 21时53分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价已经跌透了？机构预警周期性底部将至",
+          "url": "https://flash.jin10.com/detail/20260721212221842800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
         {
           "title": "金十图示：2026年07月21日（周二）上海金早盘价为876.78元/克，较国际金价(875.51元/克)，高1.27元/克",
           "url": "https://flash.jin10.com/detail/20260721101750427800",
@@ -1387,8 +1516,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美债收益率随油价持续攀升，30年期国债收益率创5月21日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3137618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时53分"
+        },
         {
           "title": "DoubleLine：美债收益率上升将有助于美联储维持利率不变",
           "url": "https://wallstreetcn.com/livenews/3137053",
