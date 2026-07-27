@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T15:33:38.308353+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-07-27T22:37:19.914228+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 56,
       "titles": [
         {
           "title": "伊朗革命卫队披露美军死亡人数",
@@ -54,6 +54,17 @@
           "time_info": "[01时02分 ~ 06时07分]"
         },
         {
+          "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
+          "url": "https://news.ifeng.com/c/8v6QrUZwqR8",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
+        {
           "title": "伊朗官员：一艘里海通行伊朗商船遭袭致1死3伤",
           "url": "https://wallstreetcn.com/livenews/3139855",
           "source": "华尔街见闻-快讯",
@@ -64,6 +75,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 06时07分]"
+        },
+        {
+          "title": "事关美国军机部署，伊朗第3次警告保加利亚",
+          "url": "https://news.ifeng.com/c/8v6pJifxdFC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
         },
         {
           "title": "伊朗外交部发言人巴加埃：伊朗与美国之间的信息交流以及调解人的活动仍在继续。",
@@ -86,6 +108,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
+          "url": "https://wallstreetcn.com/articles/3777973",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 22时37分]"
         },
         {
           "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
@@ -196,6 +231,19 @@
           "time_info": "[01时02分 ~ 03时13分]"
         },
         {
+          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 22时37分]"
+        },
+        {
           "title": "伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展",
           "url": "https://wallstreetcn.com/livenews/3139835",
           "source": "华尔街见闻-快讯",
@@ -243,18 +291,6 @@
           "time_info": "[01时02分 ~ 04时59分]"
         },
         {
-          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
-          "url": "https://wallstreetcn.com/articles/3777973",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 15时33分]"
-        },
-        {
           "title": "乌克兰此时打击伊朗商船，图啥？",
           "url": "https://news.ifeng.com/c/8v5Ckfob4r6",
           "source": "凤凰网",
@@ -264,6 +300,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时59分 ~ 15时33分]"
+        },
+        {
+          "title": "对伊朗停火，美国这次是“不打了”还是“打不了”？",
+          "url": "https://news.ifeng.com/c/8v6m9Pp9uJ2",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
         },
         {
           "title": "伊朗外交部：我们绝不允许美国在阿拉伯湾和霍尔木兹海峡水域推行霸权。",
@@ -314,16 +361,26 @@
           "time_info": "[08时01分 ~ 11时59分]"
         },
         {
-          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
-          "source": "澎湃新闻",
+          "title": "对伊朗停火 美国是不打了还是打不了",
+          "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%81%9C%E7%81%AB+%E7%BE%8E%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%89%93%E4%BA%86%E8%BF%98%E6%98%AF%E6%89%93%E4%B8%8D%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            16
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时59分 ~ 15时33分]"
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
+        {
+          "title": "贝克休斯：预计伊朗冲突对部分项目和供应链的影响将被其他地区的强劲表现所抵消。",
+          "url": "https://flash.jin10.com/detail/20260727220839080800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "休战两夜重现和平曙光？伊朗高官表态只会对等停火",
@@ -332,7 +389,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -354,7 +411,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -379,6 +436,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "伊朗最高领袖重申对真主党的支持",
+          "url": "https://flash.jin10.com/detail/20260727220158329800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "美国防部：美军因伊朗战事累计伤亡642人",
@@ -425,6 +493,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "伊朗称不允许由美国决定何时战何时止",
+          "url": "https://wallstreetcn.com/livenews/3140365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "伊朗驻法国大使馆：霍尔木兹海峡是我们世代相传的遗产。",
           "url": "https://flash.jin10.com/detail/20260727004811747800",
           "source": "金十数据",
@@ -456,6 +535,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "伊朗副外长加里布阿巴迪：在伊斯兰堡会谈中，美方提出了2项极端要求，并表示如果不接受这些要求，谈判就会失败，他们将离开；我们拒绝了这些要求，并告诉他们可以回去了。",
+          "url": "https://flash.jin10.com/detail/20260727215056257800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "伊朗革命卫队：周一8:00至12:00，阿巴斯港东部地区可能会传出受控爆炸的声音，市民无需担心。",
@@ -560,7 +650,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -609,13 +699,24 @@
           "time_info": "[11时59分 ~ 15时33分]"
         },
         {
+          "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
+          "url": "https://news.ifeng.com/c/8v6of60c6nV",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
+        {
           "title": "特朗普是不是美国最好总统？泽连斯基回应",
           "url": "https://news.ifeng.com/c/8v6JXj4MicX",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -729,6 +830,17 @@
           "time_info": "[01时02分 ~ 06时07分]"
         },
         {
+          "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
+          "url": "https://news.ifeng.com/c/8v6kAaPHBHd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
+        {
           "title": "英国国防大臣：欧洲将感谢特朗普，因为他迫使欧洲实现自立。我们并不总是认同特朗普及其行事方式，但他促使我们避免产生自满情绪。",
           "url": "https://flash.jin10.com/detail/20260727002330493800",
           "source": "金十数据",
@@ -788,6 +900,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "美时政评论员发文：特朗普不希望赖清德搞“抗中保台”",
+          "url": "https://wallstreetcn.com/livenews/3140373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "据Axios：美国中央司令部司令库珀建议停止在霍尔木兹海峡周边的轰炸行动，因该行动的效力已达极限。这影响了特朗普周五做出的暂停对伊打击的决定。",
           "url": "https://flash.jin10.com/detail/20260727010619989800",
           "source": "金十数据",
@@ -823,93 +946,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 15时33分]"
-        },
-        {
-          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
-          "url": "https://www.cls.cn/detail/2437261",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 15时33分]"
-        },
-        {
-          "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3139891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
-          "url": "https://flash.jin10.com/detail/20260727072716929800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "OpenAI、Anthropic被曝游说封堵开源模型 硅谷上演“开源保卫战”",
-          "url": "https://www.cls.cn/detail/2437206",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260727072121648800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 13,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -947,6 +985,61 @@
           "time_info": "[01时02分 ~ 08时01分]"
         },
         {
+          "title": "美伊紧张局势缓和，美股三大股指集体高开，SK海力士涨超3%，布油一度大跌7%、债市走强",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
+        {
+          "title": "美伊暂停交火提振市场情绪 美股期指上涨 油价大幅回落 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2438191",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
+        {
+          "title": "美国中期选举进入百日倒计时！高盛：美股8月起将逐步感受冲击",
+          "url": "https://www.cls.cn/detail/2438003",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
+        {
+          "title": "美银警告：美股最弱窗口即将到来",
+          "url": "https://www.toutiao.com/trending/7667156846574046762/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
+        {
+          "title": "美股回吐部分涨幅，纳斯达克100指数一度转跌。",
+          "url": "https://flash.jin10.com/detail/20260727220816201800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
           "url": "https://www.cls.cn/detail/2437061",
           "source": "财联社热门",
@@ -956,13 +1049,154 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "美股三大股指集体高开，道指涨0.9%，标普500指数涨0.7%，纳指涨1%。明星科技股普涨，SK海力士涨超3%，闪迪涨1%；原油股走低，埃克森美孚、康菲石油、英国石油跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3140361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
+          "title": "美国软件公司美股盘初走高，Salesforce(CRM.N)涨超3%，甲骨文(ORCL.N)涨约5%，ServiceNow(NOW.N)涨近4%。",
+          "url": "https://flash.jin10.com/detail/20260727214806636800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
+          "title": "阿斯麦美股盘前回吐涨幅；阿斯麦欧股短线跳水，其在阿姆斯特丹市场下跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3140352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3140351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 15时33分]"
+        },
+        {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 22时37分]"
+        },
+        {
+          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
+          "url": "https://www.cls.cn/detail/2437261",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 15时33分]"
+        },
+        {
+          "title": "知情人士称，英伟达正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3139891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
+          "url": "https://flash.jin10.com/detail/20260727072716929800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "OpenAI、Anthropic被曝游说封堵开源模型 硅谷上演“开源保卫战”",
+          "url": "https://www.cls.cn/detail/2437206",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "据华尔街日报：知情人士称，英伟达(NVDA.O)正就为OpenAI俄亥俄州数据中心项目提供约2500亿美元财务担保进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260727072121648800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "DeepSeek说他先去吃饭了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%AF%B4%E4%BB%96%E5%85%88%E5%8E%BB%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
         {
           "title": "梁文锋打新长鑫科技浮盈8.27亿",
           "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%B5%AE%E7%9B%888.27%E4%BA%BF%23&t=31&band_rank=1&Refer=top",
@@ -970,16 +1204,49 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        },
+        {
+          "title": "梁文锋打新长鑫浮盈8.27亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%96%87%E9%94%8B%E6%89%93%E6%96%B0%E9%95%BF%E9%91%AB%E6%B5%AE%E7%9B%888.27%E4%BA%BF%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
+        {
+          "title": "私募打新长鑫科技首日“进账”65亿，梁文锋旗下幻方、九章浮盈超8亿",
+          "url": "https://wallstreetcn.com/livenews/3140357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "油价暴跌 金价飙升",
+          "url": "https://www.douyin.com/hot/2587376",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
         {
           "title": "金十图示：2026年07月27日（周一）上海金午盘价为893.19元/克，较国际金价(891.49元/克)，高1.7元/克",
           "url": "https://flash.jin10.com/detail/20260727151118915800",
@@ -987,7 +1254,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         }
@@ -995,7 +1262,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "汇市盘初，美元指数DXY跌0.16%，报101.31；澳元兑美元AUD/USD涨0.23%；美元兑日元USD/JPY跌0.16%；欧元兑美元EUR/USD涨0.18%。",
@@ -1007,6 +1274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨3.7%，报91.20美元，处于连续第二个交易日反弹之中。",
+          "url": "https://wallstreetcn.com/livenews/3140371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         }
       ]
     }
