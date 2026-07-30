@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T06:04:59.596602+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-07-30T08:01:44.781830+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -13,11 +13,23 @@
           "source": "财联社热门",
           "ranks": [
             3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
+          "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
+          "source": "凤凰网",
+          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 06时04分]"
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 08时01分]"
         },
         {
           "title": "布油大涨7%！特朗普警告：将对伊朗“大力打击”",
@@ -33,18 +45,18 @@
           "time_info": "[01时16分 ~ 04时58分]"
         },
         {
-          "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
-          "url": "https://news.ifeng.com/c/8vAUYfWwMg3",
-          "source": "凤凰网",
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时04分]"
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
           "ranks": [
@@ -52,7 +64,18 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时04分"
+          "time_info": "08时01分"
+        },
+        {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 08时01分]"
         },
         {
           "title": "美联储主席沃什：本次政策会议上并没有感受到（来自特朗普政府的政治）掣肘。",
@@ -72,20 +95,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
-        },
-        {
-          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 06时04分]"
         },
         {
           "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
@@ -95,8 +107,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 08时01分]"
         },
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
@@ -106,8 +118,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 08时01分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -115,11 +127,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 06时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 08时01分]"
         },
         {
           "title": "伊朗武装部队警告特朗普",
@@ -129,8 +142,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 06时04分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 08时01分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡谈伊朗问题选项：这是特朗普的决定。",
+          "url": "https://wallstreetcn.com/livenews/3141964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "美国总统特朗普：（关于杜勒斯机场）下令添置新设备和控制塔。",
@@ -142,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "特朗普：我们已对伊朗进行重创，我们很快就会彻底解决伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3141963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "特朗普称将痛击伊朗 寻求对伊朗加关税的授权",
@@ -161,7 +196,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -210,6 +245,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美媒：美军已拟定为期两周的对伊密集空袭方案，有待特朗普抉择",
+          "url": "https://flash.jin10.com/detail/20260730064846289800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
           "title": "特朗普：沃什想看到利率下跌",
           "url": "https://wallstreetcn.com/livenews/3141877",
           "source": "华尔街见闻-快讯",
@@ -227,7 +273,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -254,6 +300,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "美国总统特朗普：有没有人知道美国最高法院在出生公民权和关税问题上的负面裁决给我们的国家带来了多少金钱和声望的损失？答案是，数万亿、数万亿的美元！",
+          "url": "https://flash.jin10.com/detail/20260730061435735800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
           "title": "特朗普：轮到我们袭击伊朗了",
           "url": "https://wallstreetcn.com/livenews/3141873",
           "source": "华尔街见闻-快讯",
@@ -268,7 +325,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -280,6 +337,52 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时16分 ~ 06时04分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "美股大跌 美光科技跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2440482",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时16分 ~ 08时01分]"
         },
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -303,18 +406,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 06时04分]"
-        },
-        {
-          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2440482",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时16分 ~ 06时04分]"
         },
         {
           "title": "星巴克美股盘后涨11%，该公司上调全年调整后每股收益（EPS）指引。",
@@ -369,7 +460,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -380,7 +471,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -405,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美股尾盘大跳水原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%BE%E7%9B%98%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "金十图示：2026年07月29日（周三）美股热门股票行情一览（美股收盘）",
@@ -443,7 +545,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "Kpler大宗商品研究主管Matt Smith表示，全球燃料供应极其紧张，这促使炼油商开足马力以获取异常丰厚的利润。在乌克兰和伊朗战争引发的供应中断之后，燃料市场已几乎没有缓冲空间。 “超大规模的炼油利润继续促使炼油商尽可能满负荷运转，导致原油库存被大幅消耗。”",
@@ -452,7 +554,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -479,6 +581,18 @@
           "time_info": "[01时16分 ~ 06时04分]"
         },
         {
+          "title": "美称伊朗发射导弹袭击驻中东美军",
+          "url": "https://www.douyin.com/hot/2588834",
+          "source": "抖音",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时58分 ~ 08时01分]"
+        },
+        {
           "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
           "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
           "source": "凤凰网",
@@ -501,16 +615,26 @@
           "time_info": "[01时16分 ~ 03时18分]"
         },
         {
-          "title": "美称伊朗发射导弹袭击驻中东美军",
-          "url": "https://www.douyin.com/hot/2588834",
-          "source": "抖音",
+          "title": "美军正在伊朗境内进行空袭。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3141962",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            18
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时58分 ~ 06时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "据Axios：美国官员称，美国军方正在对伊朗进行空袭。",
+          "url": "https://flash.jin10.com/detail/20260730071212541800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "美沙空袭伊拉克致4名伊朗革命卫队成员身亡",
@@ -538,7 +662,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
@@ -574,6 +698,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "OpenAI首席财务官：公司7月份的年化收入已经超过了整个第二季度的总和。",
+          "url": "https://flash.jin10.com/detail/20260730071758962800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
           "title": "市场消息：OpenAI首席执行官奥尔特曼在与美国共和党参议员特德·克鲁兹会晤后向记者发表评论，双方讨论了新的人工智能模型，奥尔特曼表达了对人工智能安全法案的支持，但未透露具体细节。",
           "url": "https://flash.jin10.com/detail/20260730003826526800",
           "source": "金十数据",
@@ -583,6 +718,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "沃什拒绝给方向，美债市场怒了！冈拉克警告：想回2%就必须加息",
+          "url": "https://flash.jin10.com/detail/20260730073319295800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "彭博：美债收益率表明沃什如此有耐心是错的",
+          "url": "https://wallstreetcn.com/livenews/3141909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "阿波罗首席经济学家：美联储放弃前瞻指引，导致美债“溜溜球”式波动",
+          "url": "https://wallstreetcn.com/livenews/3141946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "美联储主席沃什：名义美债收益率、实际美债收益率涨势都非常突出。 我们正关注收益率上涨问题，正设法不受其影响。 债券市场似乎认为，美国经济强劲、稳步发展。 市场更加直接地对诸多事件做出反应。 即便我们没有采取太多行动，市场也已经出现相当的波动。",
+          "url": "https://wallstreetcn.com/livenews/3141839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     },
@@ -627,7 +823,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价在美联储决议声明发布日涨0.9%，沃什新闻发布会期间刷新日高",
@@ -636,9 +832,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "业内人士：多重因素扰动，金价短期走势或以震荡为主",
+          "url": "https://wallstreetcn.com/livenews/3141957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "金价剧震 哪些资本买家在持续入场",
@@ -646,34 +853,6 @@
           "source": "今日头条",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "彭博：美债收益率表明沃什如此有耐心是错的",
-          "url": "https://wallstreetcn.com/livenews/3141909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "美联储主席沃什：名义美债收益率、实际美债收益率涨势都非常突出。 我们正关注收益率上涨问题，正设法不受其影响。 债券市场似乎认为，美国经济强劲、稳步发展。 市场更加直接地对诸多事件做出反应。 即便我们没有采取太多行动，市场也已经出现相当的波动。",
-          "url": "https://wallstreetcn.com/livenews/3141839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
