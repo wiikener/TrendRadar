@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T08:01:44.781830+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-07-30T11:17:44.827625+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 08时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 11时17分]"
         },
         {
           "title": "特朗普：伊朗请求不要发动打击，但美国将给他们一个教训",
@@ -45,6 +46,32 @@
           "time_info": "[01时16分 ~ 04时58分]"
         },
         {
+          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
+          "url": "https://wallstreetcn.com/articles/3778237",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 11时17分]"
+        },
+        {
+          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 11时17分]"
+        },
+        {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
@@ -56,17 +83,6 @@
           "time_info": "06时04分"
         },
         {
-          "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
-          "url": "https://wallstreetcn.com/articles/3778237",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
           "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
           "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
           "source": "澎湃新闻",
@@ -76,6 +92,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时16分 ~ 08时01分]"
+        },
+        {
+          "title": "最新民调出炉！特朗普在共和党内部也遇挫",
+          "url": "https://news.ifeng.com/c/8vArsLDHzMI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "美联储主席沃什：本次政策会议上并没有感受到（来自特朗普政府的政治）掣肘。",
@@ -122,19 +149,6 @@
           "time_info": "[01时16分 ~ 08时01分]"
         },
         {
-          "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33682760",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 08时01分]"
-        },
-        {
           "title": "伊朗武装部队警告特朗普",
           "url": "https://www.douyin.com/hot/2589723",
           "source": "抖音",
@@ -142,8 +156,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 08时01分]"
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 11时17分]"
         },
         {
           "title": "以色列总理内塔尼亚胡谈伊朗问题选项：这是特朗普的决定。",
@@ -152,7 +166,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -174,9 +188,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "特朗普称将痛击伊朗 寻求对伊朗加关税的授权",
@@ -251,7 +276,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -306,7 +331,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -325,7 +350,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
@@ -339,24 +364,39 @@
           "time_info": "[01时16分 ~ 06时04分]"
         },
         {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 11时17分]"
+        },
+        {
+          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2440482",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时16分 ~ 11时17分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
-        },
-        {
-          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
-          "url": "https://www.cls.cn/detail/2440737",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -367,22 +407,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        },
-        {
-          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2440482",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时16分 ~ 08时01分]"
         },
         {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
@@ -476,6 +503,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2590070",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "美联储宣布按兵不动当天，标普500指数收跌112.63点，跌幅1.52%，报7316.15点，微幅低开之后、美股早盘持续走低、北京时间00:17以来持续回升，02:00美联储宣布按兵不动时显著收复失地，美联储主席沃什新闻发布会带来冲高回落行情、02:55微涨至7450.84点刷新日高，03:00以来持续走低。 道琼斯工业平均指数收跌1153.18点，创2025年4月份以来最大单日点数跌幅，百分比跌幅2.19%，报51594.14点。 纳斯达克综合指数（纳指）收跌433.97点，跌幅1.74%，报24442.942点。 纳斯达克100指数收跌570.828点，跌幅2.06%，报27192.306点。",
           "url": "https://wallstreetcn.com/livenews/3141889",
           "source": "华尔街见闻-快讯",
@@ -504,7 +542,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -545,8 +583,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "据伊朗学生通讯社和中东地区媒体Al-Araby报道，胡塞武装否认关于其拟在曼德海峡征收过境费的报道，称该组织在红海的行动仅限于禁止沙特的航运。",
+          "url": "https://flash.jin10.com/detail/20260730111203990800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
         {
           "title": "Kpler大宗商品研究主管Matt Smith表示，全球燃料供应极其紧张，这促使炼油商开足马力以获取异常丰厚的利润。在乌克兰和伊朗战争引发的供应中断之后，燃料市场已几乎没有缓冲空间。 “超大规模的炼油利润继续促使炼油商尽可能满负荷运转，导致原油库存被大幅消耗。”",
           "url": "https://wallstreetcn.com/livenews/3141927",
@@ -615,13 +664,24 @@
           "time_info": "[01时16分 ~ 03时18分]"
         },
         {
+          "title": "美国将对购买俄油气的国家征收 100% 二级关税、同时延长伊朗制裁，如何看待此举？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2065729116125521259",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "美军正在伊朗境内进行空袭。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3141962",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -632,9 +692,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "美媒称美军正在对伊朗进行空袭",
+          "url": "https://www.toutiao.com/trending/7668100922215501318/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "历史性一刻，伊朗先发制人袭击美军基地",
+          "url": "https://v.ifeng.com/c/8vA9hUsD4WZ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "美沙空袭伊拉克致4名伊朗革命卫队成员身亡",
@@ -657,12 +739,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美军称结束对伊朗实施的新一轮大规模打击",
+          "url": "https://wallstreetcn.com/livenews/3142080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "伊媒称伊朗格什姆岛和基什岛遭美军袭击",
+          "url": "https://wallstreetcn.com/livenews/3142076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "美联储维持利率不变但利率前景仍不明朗，美国空袭伊朗，地缘冲突反复，现货金银多头占比较昨日降低20%，原油多头占比仍接近80%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260730103559493800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI针对学术研究员推出ChatGPT。",
@@ -687,6 +802,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
+          "url": "https://www.zhihu.com/question/2065583157664018461",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
           "url": "https://flash.jin10.com/detail/20260730041831120800",
           "source": "金十数据",
@@ -704,7 +830,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -718,23 +844,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
+          "url": "https://www.zhihu.com/question/2065729146383071132",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
           "url": "https://wallstreetcn.com/articles/3778176",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 11时17分]"
         },
         {
           "title": "沃什拒绝给方向，美债市场怒了！冈拉克警告：想回2%就必须加息",
@@ -743,9 +881,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "黄金反弹高度被美债收益率封锁，下行压力或在...时触发——新版发布",
+          "url": "https://flash.jin10.com/detail/20260730110631490800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "彭博：美债收益率表明沃什如此有耐心是错的",
@@ -765,7 +914,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -843,7 +992,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
