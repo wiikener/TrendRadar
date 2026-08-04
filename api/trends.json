@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T19:24:37.775659+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-08-04T22:14:04.571523+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -44,6 +44,19 @@
           "time_info": "[10时36分 ~ 16时38分]"
         },
         {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 22时14分]"
+        },
+        {
           "title": "“控制”格陵兰岛，特朗普罕见列出时间表",
           "url": "https://news.ifeng.com/c/8vIdcQIZgcx",
           "source": "凤凰网",
@@ -65,6 +78,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时52分"
+        },
+        {
+          "title": "美媒：因凡蒂诺向特朗普求助",
+          "url": "https://www.douyin.com/hot/2596620",
+          "source": "抖音",
+          "ranks": [
+            10,
+            17,
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 22时14分]"
         },
         {
           "title": "媒体：伊朗民众已逐渐不再关注特朗普战争言论",
@@ -122,6 +149,17 @@
           "time_info": "03时39分"
         },
         {
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 22时14分]"
+        },
+        {
           "title": "（美国总统特朗普的）加沙和平委员会：我们今日与内塔尼亚胡及其团队会面，旨在推动加沙地区解除武装，并为过渡至文官政府做准备。 我们重申，以色列撤至黄线以外的行动，只有在加沙实现全面解除武装之后方可实施。",
           "url": "https://wallstreetcn.com/livenews/3144297",
           "source": "华尔街见闻-快讯",
@@ -132,18 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 03时39分]"
-        },
-        {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 19时24分]"
         },
         {
           "title": "美国总统特朗普声称一项“协议即将达成”之后，伊朗外交部发言人周一置评道，德黑兰暂无与华盛顿举行直接谈判的计划。",
@@ -158,19 +184,6 @@
           "time_info": "[01时52分 ~ 03时39分]"
         },
         {
-          "title": "美媒：因凡蒂诺向特朗普求助",
-          "url": "https://www.douyin.com/hot/2596620",
-          "source": "抖音",
-          "ranks": [
-            10,
-            17,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 19时24分]"
-        },
-        {
           "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
           "url": "https://www.cls.cn/detail/2444718",
           "source": "财联社热门",
@@ -182,17 +195,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时36分 ~ 16时38分]"
-        },
-        {
-          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
-          "url": "https://wallstreetcn.com/articles/3778597",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 19时24分]"
         },
         {
           "title": "特朗普抨击大型石油公司“赚得太多” 国际油价大幅回落 | 环球市场",
@@ -216,6 +218,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时37分 ~ 16时38分]"
+        },
+        {
+          "title": "曝国际足联主席求助特朗普",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%BB%E5%B8%AD%E6%B1%82%E5%8A%A9%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "伊朗认为特朗普倾向谈判而非局势升级",
@@ -518,7 +531,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
@@ -532,13 +545,35 @@
           "time_info": "[01时52分 ~ 07时02分]"
         },
         {
+          "title": "伊朗总统回应辞职传闻",
+          "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
+        },
+        {
+          "title": "美财长透露与伊朗达成协议的时间",
+          "url": "https://news.ifeng.com/c/8vJy6Up6oyy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
+        },
+        {
           "title": "伊朗总统否认辞职传闻",
           "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -571,7 +606,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -582,7 +617,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -654,6 +689,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时52分 ~ 03时39分]"
+        },
+        {
+          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
+          "url": "https://www.cls.cn/detail/2445217",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "伊朗放话让美军回到石器时代",
@@ -767,6 +813,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "伊朗德黑兰省发生燃料储罐爆炸事故致18人受伤",
+          "url": "https://wallstreetcn.com/livenews/3144783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "伊朗布什尔省省长：南帕尔斯气田的6000万立方米天然气产能已恢复生产。",
           "url": "https://flash.jin10.com/detail/20260804034848736800",
           "source": "金十数据",
@@ -839,7 +896,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -905,7 +962,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -924,7 +981,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -935,8 +992,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时36分 ~ 19时24分]"
+          "appearance_count": 7,
+          "time_info": "[10时36分 ~ 22时14分]"
         },
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
@@ -972,6 +1029,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时52分 ~ 10时36分]"
+        },
+        {
+          "title": "金十图示：2026年08月04日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260804214210282800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "美股光学和光子学组件股票走强，Applied Optoelectronics涨16%，Lumentum涨7%，Coherent涨11%。",
+          "url": "https://flash.jin10.com/detail/20260804214203274800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美股收盘：三大指数全线走高纳指涨逾2% 美伊局势缓和提振风险偏好",
@@ -1020,6 +1099,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 07时02分]"
+        },
+        {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "Snap二季度营收16亿美元，分析师预期15.4亿美元。 二季度日活用户数4.93亿，分析师预期4.8838亿。 二季度调整后EBITDA为2.5亿美元，分析师预期1.923亿美元。 预计三季度营收17亿-17.4亿美元，分析师预期17亿美元。 预计三季度调整后EBITDA为3亿-3.5亿美元，分析师预期3.276亿美元。 Snap美股盘后涨11%。",
@@ -1133,9 +1223,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "美股三大股指集体高开，道指涨1.17%，标普500指数涨0.4%，纳指涨0.78%。卡特彼勒上涨12%，创2022年10月以来最大单日涨幅。Palantir涨超14%，公司大幅上调全年收入预期。光通信股持续走高，Lumentum涨超8%，Coherent涨超11%。",
+          "url": "https://wallstreetcn.com/livenews/3144788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美股科技巨头迎来强劲买盘",
@@ -1155,9 +1256,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "美股开盘，道指涨1.17%，标普500指数涨0.4%创盘中历史新高，纳指涨0.78%。Palantir(PLTR.N)涨14.7%，公司大幅上调全年收入预期。SpaceX(SPCX.O)和AMD(AMD.O)盘后将公布财报，分别涨2.8%和3.7%。美光科技(MU.O)涨4%，康宁(GLW.N)涨5.6%。",
+          "url": "https://flash.jin10.com/detail/20260804213034015800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美股收盘：道指创收盘新高 纳指涨超2%",
@@ -1210,9 +1322,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3144773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-04）",
+          "url": "https://flash.jin10.com/detail/20260804212202786800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美股盘前光通信股拉升，Coherent涨超15%，Lumentum涨近12%，康宁涨超9%，Credo涨近10%，迈威尔科技涨近8%。",
@@ -1221,7 +1355,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         }
@@ -1229,8 +1363,21 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 22时14分]"
+        },
         {
           "title": "DeepSeek 斩杀线",
           "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
@@ -1280,19 +1427,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时52分 ~ 07时02分]"
-        },
-        {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 19时24分]"
         },
         {
           "title": "DeepSeek斩杀线",
@@ -1348,13 +1482,36 @@
           "time_info": "[01时52分 ~ 07时02分]"
         },
         {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 22时14分]"
+        },
+        {
+          "title": "疑似梁文锋早期微博被扒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%A2%81%E6%96%87%E9%94%8B%E6%97%A9%E6%9C%9F%E5%BE%AE%E5%8D%9A%E8%A2%AB%E6%89%92%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
+        },
+        {
           "title": "DeepSeek低价风暴打服硅谷",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BD%8E%E4%BB%B7%E9%A3%8E%E6%9A%B4%E6%89%93%E6%9C%8D%E7%A1%85%E8%B0%B7",
           "source": "百度热搜",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1390,17 +1547,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
-        },
-        {
-          "title": "DeepSeek斩杀了谁",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         }
       ]
     },
@@ -1417,11 +1563,12 @@
             11,
             13,
             18,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时52分 ~ 19时24分]"
+          "appearance_count": 11,
+          "time_info": "[01时52分 ~ 22时14分]"
         },
         {
           "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
@@ -1497,7 +1644,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1527,7 +1674,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数3日下跌",
@@ -1540,6 +1687,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 07时02分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨2.9%，刷新6月4日以来盘中高位至100.23美元，7月24日以来持续反弹。",
+          "url": "https://wallstreetcn.com/livenews/3144798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美元指数DXY站上100，日内涨0.26%。",
@@ -1595,6 +1753,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年08月04日（周二）上海金早盘价为883.46元/克，较国际金价(881.85元/克)，高1.61元/克",
+          "url": "https://flash.jin10.com/detail/20260804102036316800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时36分"
+        },
+        {
+          "title": "卡特彼勒：上调2026年销售和营收预期。 2026年销售额将实现中十位数至高十位数的增长。 部分客户正在下达远至2030年的订单。 铜价和金价正在推动采矿设备销售。",
+          "url": "https://wallstreetcn.com/livenews/3144766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1607,8 +1793,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 19时24分]"
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 22时14分]"
         },
         {
           "title": "花旗：日本捍卫日元不必抛售逾1.1万亿美元的美债持仓",
@@ -1620,23 +1806,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月04日（周二）上海金早盘价为883.46元/克，较国际金价(881.85元/克)，高1.61元/克",
-          "url": "https://flash.jin10.com/detail/20260804102036316800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时36分"
         }
       ]
     }
