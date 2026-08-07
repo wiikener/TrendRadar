@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T05:40:37.469275+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-08-08T06:37:04.190996+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时37分]"
         },
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -26,8 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时37分]"
+        },
+        {
+          "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
+          "url": "https://flash.jin10.com/detail/20260808032301628800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时55分 ~ 06时37分]"
         },
         {
           "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
@@ -85,18 +97,6 @@
           "time_info": "03时55分"
         },
         {
-          "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
-          "url": "https://flash.jin10.com/detail/20260808032301628800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时55分 ~ 05时40分]"
-        },
-        {
           "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
           "url": "https://wallstreetcn.com/livenews/3146901",
           "source": "华尔街见闻-快讯",
@@ -147,6 +147,29 @@
           "time_info": "[01时51分 ~ 02时59分]"
         },
         {
+          "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
+          "url": "https://flash.jin10.com/detail/20260808033854319800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时37分]"
+        },
+        {
+          "title": "伊朗发视频隐喻美国国运衰落原因",
+          "url": "https://www.toutiao.com/trending/7671188288800899082/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时37分]"
+        },
+        {
           "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
           "url": "https://wallstreetcn.com/livenews/3146833",
           "source": "华尔街见闻-快讯",
@@ -181,17 +204,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时51分]"
-        },
-        {
-          "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
-          "url": "https://flash.jin10.com/detail/20260808033854319800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时40分]"
         },
         {
           "title": "伊朗外交部长表示，面对全球军费开支最高的军队，伊朗实力强大的武装部队已展现出自身的备战状态、作战能力与军事力量。",
@@ -379,17 +391,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
-        },
-        {
-          "title": "伊朗发视频隐喻美国国运衰落原因",
-          "url": "https://www.toutiao.com/trending/7671188288800899082/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时42分"
         }
       ]
     },
@@ -418,6 +419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时54分 ~ 06时37分]"
         },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
@@ -488,15 +500,28 @@
           "time_info": "[00时57分 ~ 01时51分]"
         },
         {
-          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
-          "source": "澎湃新闻",
+          "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3146913",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            10,
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时54分 ~ 05时40分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时37分]"
+        },
+        {
+          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
+          "url": "https://flash.jin10.com/detail/20260808035911250800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时37分]"
         },
         {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
@@ -523,27 +548,16 @@
           "time_info": "[03时55分 ~ 04时42分]"
         },
         {
-          "title": "据特朗普媒体科技临时CEO Kevin McGurn，特朗普媒体退出与Crypto.com相关的两笔交易。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3146913",
+          "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
+          "url": "https://wallstreetcn.com/livenews/3146922",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时40分]"
-        },
-        {
-          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
-          "url": "https://flash.jin10.com/detail/20260808035911250800",
-          "source": "金十数据",
-          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时40分]"
+          "time_info": "[05时40分 ~ 06时37分]"
         },
         {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
@@ -601,17 +615,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
-        },
-        {
-          "title": "加密货币平台Crypto.com与特朗普传媒科技集团将整合合作伙伴关系调整为营销协议。 特朗普媒体与科技集团称，将调整协议方向，面向Truth Social用户群体推广Crypto.com的预测市场业务。 Yorkville American的业务及其现有和未来ETF产品的计划保持不变。 特朗普媒体与科技集团已终止与Crypto.com的业务合并协议，于2026年8月7日生效。 Crypto.com、特朗普媒体、Yorkville America已共同同意不再推进此前宣布的合作关系。",
-          "url": "https://wallstreetcn.com/livenews/3146922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
         },
         {
           "title": "美国总统特朗普在矿业圆桌会议上表示：我们实现了能源独立，现在正在实现经济独立。美国必须在国内开采、提炼并制造关键矿产。",
@@ -760,7 +763,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -770,8 +773,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时37分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -782,8 +785,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时37分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -815,11 +818,12 @@
             21,
             20,
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时37分]"
         },
         {
           "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
@@ -830,8 +834,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时37分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -841,8 +845,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时40分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时37分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股收盘）",
@@ -852,8 +856,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时40分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时37分]"
         },
         {
           "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
@@ -861,11 +865,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时40分]"
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时37分]"
         },
         {
           "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
@@ -875,8 +880,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时42分 ~ 06时37分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时40分]"
+          "time_info": "[06时36分 ~ 06时37分]"
         }
       ]
     },
@@ -894,11 +910,12 @@
             22,
             19,
             23,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时37分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -908,8 +925,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时37分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -919,8 +936,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时54分 ~ 05时40分]"
+          "appearance_count": 6,
+          "time_info": "[03时54分 ~ 06时37分]"
         }
       ]
     },
@@ -937,8 +954,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时40分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 06时37分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -991,11 +1008,12 @@
           "url": "https://wallstreetcn.com/livenews/3146923",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时40分 ~ 06时37分]"
         },
         {
           "title": "瑞银：黄金上涨行情具备支撑，金价明年有望向5000美元迈进",
