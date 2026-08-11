@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T16:57:54.216288+08:00",
-  "total_titles_processed": 1381,
+  "generated_at": "2026-08-11T18:03:44.795225+08:00",
+  "total_titles_processed": 1483,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,17 @@
           "time_info": "[00时05分 ~ 09时48分]"
         },
         {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 18时03分]"
+        },
+        {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
           "url": "https://wallstreetcn.com/articles/3779034",
           "source": "华尔街见闻",
@@ -65,17 +76,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时57分 ~ 07时36分]"
-        },
-        {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 16时57分]"
         },
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -101,8 +101,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 16时57分]"
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 18时03分]"
+        },
+        {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 18时03分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -117,15 +128,15 @@
           "time_info": "[09时48分 ~ 13时10分]"
         },
         {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
           "source": "凤凰网",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 16时57分]"
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 18时03分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，美国总统特朗普计划于当地时间周一签署一项有关儿童疫苗政策的行政命令。",
@@ -181,17 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 16时57分]"
         },
         {
           "title": "美国总统特朗普将于当地时间周一签署关于儿童接种疫苗的行政命令。（CBS）",
@@ -278,6 +278,19 @@
           "time_info": "[06时39分 ~ 07时36分]"
         },
         {
+          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
+          "url": "https://www.cls.cn/detail/2450709",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时10分 ~ 18时03分]"
+        },
+        {
           "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
           "url": "https://www.cls.cn/detail/2450675",
           "source": "财联社热门",
@@ -348,18 +361,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 04时46分]"
-        },
-        {
-          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
-          "url": "https://www.cls.cn/detail/2450709",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 16时57分]"
         },
         {
           "title": "美国总统特朗普将美国琼斯法案针对货轮的豁免措施延长90天，但范围缩小。 特朗普将航运豁免范围限制在能源大宗商品和化肥领域。",
@@ -440,7 +441,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -605,6 +606,17 @@
           "time_info": "[00时05分 ~ 06时39分]"
         },
         {
+          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
+          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 18时03分]"
+        },
+        {
           "title": "伊朗的5个条件，美国是否会照单全收？",
           "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
           "source": "凤凰网",
@@ -616,17 +628,6 @@
           "time_info": "[00时05分 ~ 02时59分]"
         },
         {
-          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
-          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 16时57分]"
-        },
-        {
           "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
           "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
           "source": "凤凰网",
@@ -634,8 +635,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时46分 ~ 16时57分]"
+          "appearance_count": 5,
+          "time_info": "[11时46分 ~ 18时03分]"
         },
         {
           "title": "伊朗更强硬的强硬派来了",
@@ -646,8 +647,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 16时57分]"
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 18时03分]"
         },
         {
           "title": "伊朗最高领袖将任命数名高级指挥官",
@@ -862,6 +863,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时39分]"
+        },
+        {
+          "title": "伊朗警告乌克兰：不赔偿就动手",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%9A%E4%B8%8D%E8%B5%94%E5%81%BF%E5%B0%B1%E5%8A%A8%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 18时03分]"
         },
         {
           "title": "市场消息：伊朗最高领袖任命六名新军事指挥官。",
@@ -1101,18 +1114,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "伊朗警告乌克兰：不赔偿就动手",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%9A%E4%B8%8D%E8%B5%94%E5%81%BF%E5%B0%B1%E5%8A%A8%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -1354,8 +1356,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 16时57分]"
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 18时03分]"
         },
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
@@ -1621,7 +1623,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
