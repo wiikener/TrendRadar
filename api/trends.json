@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T11:46:21.054751+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-08-11T13:10:58.488733+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -87,8 +87,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时10分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -99,8 +99,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时10分]"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士表示，美国总统特朗普计划于当地时间周一签署一项有关儿童疫苗政策的行政命令。",
@@ -231,6 +231,29 @@
           "time_info": "[06时39分 ~ 07时36分]"
         },
         {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时10分]"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时10分]"
+        },
+        {
           "title": "美国总统特朗普：几天前与美联储主席沃什通话。",
           "url": "https://flash.jin10.com/detail/20260811033643002800",
           "source": "金十数据",
@@ -241,28 +264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 04时46分]"
-        },
-        {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时46分]"
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时46分]"
         },
         {
           "title": "美国总统特朗普：只有美国才能控制霍尔木兹海峡。",
@@ -325,6 +326,17 @@
           "time_info": "[01时53分 ~ 02时59分]"
         },
         {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
+          "url": "https://www.cls.cn/detail/2450675",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 13时10分]"
+        },
+        {
           "title": "美国总统特朗普：（当被问及伊朗战争接下来会发生什么时）你们很快就会知道了。",
           "url": "https://flash.jin10.com/detail/20260811032829058800",
           "source": "金十数据",
@@ -335,6 +347,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 04时46分]"
+        },
+        {
+          "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
+          "url": "https://wallstreetcn.com/livenews/3147809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 13时10分]"
         },
         {
           "title": "美国总统特朗普宣布“美国疫苗推荐”。 特朗普声称：政府仅认可 11 种核心疫苗的儿童接种建议。 不再建议所有儿童接种乙肝、新冠、流感等疫苗。",
@@ -384,6 +408,17 @@
           "time_info": "04时46分"
         },
         {
+          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
+          "url": "https://www.cls.cn/detail/2450709",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "特朗普延长《琼斯法案》航运豁免90天 适用范围转向能源运输",
           "url": "https://flash.jin10.com/detail/20260811011430495800",
           "source": "金十数据",
@@ -393,17 +428,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
-          "url": "https://www.cls.cn/detail/2450675",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         },
         {
           "title": "特朗普称自沃什履新以来仅与其短暂交谈一次 否认频繁沟通",
@@ -426,17 +450,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
-        },
-        {
-          "title": "特朗普发帖称，美国最高法院大法官阿利托已宣布他将再留任一个任期。",
-          "url": "https://wallstreetcn.com/livenews/3147809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         },
         {
           "title": "美国总统特朗普：将《琼斯法案》航运豁免期限延长了90天，同时缩小了豁免范围。运输豁免范围限定于能源商品和化肥。",
@@ -541,7 +554,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -573,8 +586,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时10分]"
         },
         {
           "title": "伊朗最高领袖将任命数名高级指挥官",
@@ -592,7 +605,29 @@
           "time_info": "[00时05分 ~ 05时42分]"
         },
         {
+          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
+          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 13时10分]"
+        },
+        {
           "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "伊朗警告乌克兰不赔偿就动手",
           "url": "https://www.toutiao.com/trending/7671598956682723379/",
           "source": "今日头条",
           "ranks": [
@@ -600,7 +635,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时46分"
+          "time_info": "13时10分"
         },
         {
           "title": "伊朗总统称与最高领袖会谈了七八个小时",
@@ -634,17 +669,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
-          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         },
         {
           "title": "市场消息：伊朗外交部长与德国外长通电话。",
@@ -735,8 +759,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时10分]"
+        },
+        {
+          "title": "伊朗总统称最高领袖健康状况很好",
+          "url": "https://www.toutiao.com/trending/7672040770148417546/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时10分]"
         },
         {
           "title": "伊朗：每当华盛顿发现自己无力开展外交，就会退而诉诸制裁",
@@ -763,16 +800,27 @@
           "time_info": "[05时42分 ~ 06时39分]"
         },
         {
-          "title": "伊朗总统称最高领袖健康状况很好",
-          "url": "https://www.toutiao.com/trending/7672040770148417546/",
-          "source": "今日头条",
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            18
+            29,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时46分]"
+          "time_info": "[11时46分 ~ 13时10分]"
+        },
+        {
+          "title": "伊朗总统之子反思伊朗国际形象",
+          "url": "https://www.toutiao.com/trending/7671499615899877402/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "市场消息：伊朗最高领袖任命六名新军事指挥官。",
@@ -841,6 +889,17 @@
           "time_info": "03时57分"
         },
         {
+          "title": "48小时伊朗高层罗生门",
+          "url": "https://search.bilibili.com/all?keyword=48%E5%B0%8F%E6%97%B6%E4%BC%8A%E6%9C%97%E9%AB%98%E5%B1%82%E7%BD%97%E7%94%9F%E9%97%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：美国财政部长曾吹嘘通过经济制裁“扼杀”了伊朗。这明显暴露出美国对制裁手段的强迫性依赖。",
           "url": "https://flash.jin10.com/detail/20260811031731383800",
           "source": "金十数据",
@@ -869,7 +928,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -902,7 +961,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -916,17 +975,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
-        },
-        {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         },
         {
           "title": "巴基斯坦与伊朗外长通话 就地区局势交换意见",
@@ -1165,11 +1213,12 @@
           "ranks": [
             8,
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时39分 ~ 11时46分]"
+          "appearance_count": 5,
+          "time_info": "[06时39分 ~ 13时10分]"
         },
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -1179,8 +1228,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 11时46分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时10分]"
         },
         {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
@@ -1203,8 +1252,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 13时10分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
@@ -1351,7 +1400,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -1362,7 +1411,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         }
