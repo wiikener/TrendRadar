@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T06:43:18.140544+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-08-12T07:41:48.933700+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时41分]"
         },
         {
           "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
@@ -31,8 +31,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时41分]"
         },
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -44,17 +44,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时05分 ~ 03时08分]"
-        },
-        {
-          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
-          "url": "https://flash.jin10.com/detail/20260812063020231800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
         },
         {
           "title": "据伊朗媒体FarsNews：一些消息来源报道称，沙特雇佣军在也门马里布的阵地再次发生两起爆炸。",
@@ -77,6 +66,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "美军直接打击商船、胡塞再袭红海：伊朗称美国不满足条件，霍尔木兹不开",
+          "url": "https://flash.jin10.com/detail/20260812070423579800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗革命卫队发言人表示，今天波斯湾没有美国军舰驻扎。",
@@ -136,6 +136,18 @@
           "time_info": "[03时08分 ~ 05时49分]"
         },
         {
+          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
+          "url": "https://flash.jin10.com/detail/20260812063020231800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时41分]"
+        },
+        {
           "title": "美国国务院发言人：我们正与财政部采取行动，继续对伊朗实施极限施压。",
           "url": "https://flash.jin10.com/detail/20260811234358256800",
           "source": "金十数据",
@@ -178,6 +190,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
+          "url": "https://wallstreetcn.com/livenews/3148273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：美国必须结束战争并解冻被冻结的伊朗资金。",
@@ -315,7 +338,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -349,8 +372,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时41分]"
         },
         {
           "title": "CoreWeave二季度营收25.8亿美元，分析师预期25.6亿美元。 二季度净亏损6.26亿美元，分析师预期亏损7.571亿美元。 二季度调整后EBITDA为15.1亿美元，分析师预期14.3亿美元。 二季度运营亏损0.49亿美元，分析师预期亏损0.865亿美元。 二季度每股亏损1.14美元，分析师预期亏损1.41美元。 至6月30日，公司（订单销售）收入积压大约1040亿美元，不包括三季度超过250亿美元的（采购）承诺。 CoreWeave美股盘后跌3%。",
@@ -362,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
+          "url": "https://www.cls.cn/detail/2451784",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "Firefly Aerospace二季度营收1.177亿美元，上年同期亏损0.155亿美元。 二季度调整后EBITDA亏损0.612亿美元，分析师预期亏损0.479亿美元。 二季度每股亏损0.57美元，上年同期亏损5.78美元。 Firefly美股盘后跌3.6%。",
@@ -408,11 +442,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时43分]"
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时41分]"
         },
         {
           "title": "Coreweave(CRWV.O)美股盘后上涨10%。",
@@ -462,6 +497,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "欧股悄悄跑赢美股！高盛：当市场开始质疑AI投入，“不追AI”的欧洲反而占优",
+          "url": "https://wallstreetcn.com/articles/3779165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
           "title": "金十图示：2026年08月11日（周二）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260812010805081800",
           "source": "金十数据",
@@ -509,8 +555,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时41分]"
+        },
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
           "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
@@ -520,19 +578,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时43分]"
-        },
-        {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 06时43分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 07时41分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -540,11 +587,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时43分]"
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时41分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -552,11 +600,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时43分]"
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时41分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -616,6 +665,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
+          "url": "https://flash.jin10.com/detail/20260812064319870800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
           "title": "美国总统特朗普：正在调查联邦政府是否有权阻止曼达尼在纽约市征收“第二住所税”。",
           "url": "https://flash.jin10.com/detail/20260811234049773800",
           "source": "金十数据",
@@ -644,7 +704,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时43分"
         },
@@ -666,17 +726,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
-          "url": "https://wallstreetcn.com/livenews/3148266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
-        },
-        {
           "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3148238",
           "source": "华尔街见闻-快讯",
@@ -690,15 +739,28 @@
           "time_info": "[04时46分 ~ 06时43分]"
         },
         {
+          "title": "OpenAI向亚马逊Redrock开放Daybreak权限。",
+          "url": "https://wallstreetcn.com/livenews/3148266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时41分]"
+        },
+        {
           "title": "亚马逊云服务(AWS)：OpenAI的Daybreak Red和Daybreak Blue现已面向Amazon Bedrock上的符合条件的客户开放。",
           "url": "https://flash.jin10.com/detail/20260812055132698800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 07时41分]"
         },
         {
           "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
@@ -745,11 +807,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            3
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时43分]"
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时41分]"
         },
         {
           "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
@@ -841,8 +904,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时57分 ~ 06时43分]"
+          "appearance_count": 9,
+          "time_info": "[01时57分 ~ 07时41分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -850,11 +913,12 @@
           "source": "微博",
           "ranks": [
             28,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时45分 ~ 06时43分]"
+          "appearance_count": 4,
+          "time_info": "[04时45分 ~ 07时41分]"
         }
       ]
     },
