@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-08-18T11:46:41.704729+08:00",
-  "total_titles_processed": 632,
+  "generated_at": "2026-08-18T12:37:16.227349+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
+          "url": "https://wallstreetcn.com/articles/3779635",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 12时37分]"
+        },
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 12时37分]"
+        },
         {
           "title": "特朗普要求伊朗举白旗投降",
           "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
@@ -19,18 +42,6 @@
           "time_info": "[07时24分 ~ 09时17分]"
         },
         {
-          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
-          "url": "https://wallstreetcn.com/articles/3779635",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 11时46分]"
-        },
-        {
           "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
           "url": "https://www.cls.cn/detail/2456389",
           "source": "财联社热门",
@@ -41,17 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 09时17分]"
-        },
-        {
-          "title": "特朗普最新支持率公布",
-          "url": "https://news.ifeng.com/c/8vgNsInzDsl",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         },
         {
           "title": "大V：特朗普“金蝉脱壳”是政治失算",
@@ -81,11 +81,35 @@
           "source": "凤凰网",
           "ranks": [
             11,
-            10
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 12时37分]"
+        },
+        {
+          "title": "特朗普被曝自己也通过邮寄选票投票",
+          "url": "https://www.toutiao.com/trending/7675157131825905718/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 12时37分]"
+        },
+        {
+          "title": "美国议员：特朗普把欺骗到底当美德",
+          "url": "https://www.toutiao.com/trending/7674814398469947401/",
+          "source": "今日头条",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时17分 ~ 11时46分]"
+          "time_info": "[12时36分 ~ 12时37分]"
         },
         {
           "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
@@ -110,17 +134,6 @@
           "time_info": "07时24分"
         },
         {
-          "title": "特朗普被曝自己也通过邮寄选票投票",
-          "url": "https://www.toutiao.com/trending/7675157131825905718/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
           "title": "特朗普拒绝延长美伊停火协议，警告阿曼别“挡路”，否则将遭轰炸",
           "url": "https://flash.jin10.com/detail/20260818063446465800",
           "source": "金十数据",
@@ -138,7 +151,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -248,7 +261,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -290,8 +303,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 11时46分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 12时37分]"
         },
         {
           "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
@@ -302,8 +315,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 12时37分]"
         },
         {
           "title": "为向伊朗革命卫队传话，美国找了谁？",
@@ -314,8 +327,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 12时37分]"
+        },
+        {
+          "title": "美伊60天谈判期届满，伊朗：已决定从防御转向全面进攻",
+          "url": "https://news.ifeng.com/c/8vgY879Eq1Y",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 12时37分]"
         },
         {
           "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
@@ -329,26 +353,16 @@
           "time_info": "07时24分"
         },
         {
-          "title": "美伊60天谈判期届满，伊朗：已决定从防御转向全面进攻",
-          "url": "https://news.ifeng.com/c/8vgY879Eq1Y",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
           "title": "“美防长要丢工作了，可能要为伊朗战争背锅”",
           "url": "https://news.ifeng.com/c/8vgcNfOmDFJ",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 12时37分]"
         },
         {
           "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
@@ -409,8 +423,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 11时46分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 12时37分]"
+        },
+        {
+          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
+          "url": "https://www.cls.cn/detail/2456558",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 12时37分]"
         },
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -423,19 +450,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时24分 ~ 09时17分]"
-        },
-        {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时24分 ~ 11时46分]"
         },
         {
           "title": "6月日本大幅减持美债，策略师：料不会再减持",
@@ -453,22 +467,24 @@
           "url": "https://flash.jin10.com/detail/20260818113355527800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时37分]"
         },
         {
           "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
           "url": "https://www.cls.cn/detail/2456636",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 12时37分]"
         },
         {
           "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
@@ -477,9 +493,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 12时37分]"
         },
         {
           "title": "美债抛售中，交易员转向一个冷门套利策略",
@@ -488,9 +504,49 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
+          "url": "https://www.cls.cn/detail/2456537",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 12时37分]"
+        },
+        {
+          "title": "OpenAI锁定4.25GW数据中心容量",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%94%81%E5%AE%9A4.25GW%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%AE%B9%E9%87%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 12时37分]"
+        },
+        {
+          "title": "英伟达绑定OpenAI未来20年算力需求：1050亿美元担保支持8吉瓦AI数据中心",
+          "url": "https://flash.jin10.com/detail/20260818084752556800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时17分"
         }
       ]
     },
@@ -503,11 +559,12 @@
           "url": "https://flash.jin10.com/detail/20260818113452095800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时37分]"
         },
         {
           "title": "金十图示：2026年08月18日（周二）上海金早盘价为953.79元/克，较国际金价(953.9元/克)，低0.11元/克",
@@ -516,7 +573,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -566,37 +623,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
-          "url": "https://www.cls.cn/detail/2456537",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "英伟达绑定OpenAI未来20年算力需求：1050亿美元担保支持8吉瓦AI数据中心",
-          "url": "https://flash.jin10.com/detail/20260818084752556800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "11时46分"
         }
       ]
     },
@@ -631,8 +660,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 12时37分]"
         }
       ]
     }
